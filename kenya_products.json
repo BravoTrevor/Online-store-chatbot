@@ -1,0 +1,4755 @@
+[
+  {
+    "id": 1,
+    "name": "Bidco Televisheni Art",
+    "category": "Electronics",
+    "price": 2766,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Eat fast peace chance fish. Part beyond gun buy. Evidence hand suffer whom.",
+    "rating": {
+      "average": 4.5,
+      "count": 18,
+      "reviews": [
+        {
+          "user": "Aaron Mack",
+          "stars": 2,
+          "comment": "Go choice affect capital feel write itself."
+        },
+        {
+          "user": "Andrea Stephens",
+          "stars": 3,
+          "comment": "Prevent remember relationship success whatever similar sound lose."
+        },
+        {
+          "user": "Lauren Martinez",
+          "stars": 4,
+          "comment": "Seat such military third get answer return position."
+        },
+        {
+          "user": "William Wilson",
+          "stars": 1,
+          "comment": "Age may recognize mission yet."
+        },
+        {
+          "user": "Richard Taylor",
+          "stars": 4,
+          "comment": "Consider east like ahead together detail travel."
+        },
+        {
+          "user": "Thomas Payne",
+          "stars": 5,
+          "comment": "Street house type young."
+        },
+        {
+          "user": "Jacqueline Pena",
+          "stars": 3,
+          "comment": "Black across student whose."
+        },
+        {
+          "user": "Nicolas Williams",
+          "stars": 3,
+          "comment": "Force where all speech president."
+        },
+        {
+          "user": "Richard Becker",
+          "stars": 2,
+          "comment": "Science factor ok information true try mind."
+        },
+        {
+          "user": "Ashley Green",
+          "stars": 4,
+          "comment": "There nation data thought benefit."
+        },
+        {
+          "user": "Jessica Rodriguez",
+          "stars": 3,
+          "comment": "Method design family bar."
+        },
+        {
+          "user": "Kyle Davis",
+          "stars": 2,
+          "comment": "White note create shake level middle."
+        },
+        {
+          "user": "Jennifer Gardner",
+          "stars": 5,
+          "comment": "Step almost current our."
+        },
+        {
+          "user": "Jennifer Hardin",
+          "stars": 2,
+          "comment": "Large mention find teacher it take."
+        },
+        {
+          "user": "Stephen Lewis",
+          "stars": 5,
+          "comment": "Accept now green ago claim stop."
+        },
+        {
+          "user": "Brian Wang",
+          "stars": 5,
+          "comment": "Speak home cost account before."
+        },
+        {
+          "user": "Bryan Mcguire",
+          "stars": 3,
+          "comment": "Or appear agent assume blood model law couple."
+        },
+        {
+          "user": "Holly Roberts",
+          "stars": 5,
+          "comment": "Mind course affect understand behind draw quality."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-1",
+      "https://source.unsplash.com/800x600/?Televisheni-1"
+    ],
+    "variants": [
+      {
+        "id": "1a",
+        "color": "SkyBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Televisheni-1-0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Brookside Sufuria Door",
+    "category": "Home & Kitchen",
+    "price": 15775,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Hard outside news affect local. Music eye box provide upon machine. Couple hotel speak home stand. Student top within training church end partner.",
+    "rating": {
+      "average": 3.8,
+      "count": 14,
+      "reviews": [
+        {
+          "user": "Colleen Whitaker",
+          "stars": 4,
+          "comment": "Tell force might often although beyond example half."
+        },
+        {
+          "user": "Jennifer Rodriguez",
+          "stars": 5,
+          "comment": "Respond happy they weight for present leader."
+        },
+        {
+          "user": "Ricardo Morales",
+          "stars": 3,
+          "comment": "Adult beautiful low suggest people wall movement."
+        },
+        {
+          "user": "Francis Wilson",
+          "stars": 3,
+          "comment": "Study value perhaps economic state everything style."
+        },
+        {
+          "user": "Megan Mcknight",
+          "stars": 1,
+          "comment": "Sure compare nor certainly information."
+        },
+        {
+          "user": "Victor Wheeler",
+          "stars": 1,
+          "comment": "Talk little month him shoulder why."
+        },
+        {
+          "user": "Miguel Wilkinson",
+          "stars": 3,
+          "comment": "When draw health world attack total newspaper."
+        },
+        {
+          "user": "Sonya Stevens",
+          "stars": 1,
+          "comment": "Herself model include treat call."
+        },
+        {
+          "user": "Adrian Curry",
+          "stars": 4,
+          "comment": "Everything around maintain agree his paper seem."
+        },
+        {
+          "user": "Brian Gay",
+          "stars": 4,
+          "comment": "Structure pull improve performance instead audience usually."
+        },
+        {
+          "user": "Daniel Leonard",
+          "stars": 2,
+          "comment": "Building indicate morning about imagine again include."
+        },
+        {
+          "user": "Molly Lewis",
+          "stars": 3,
+          "comment": "Several animal central."
+        },
+        {
+          "user": "Danielle Gomez",
+          "stars": 3,
+          "comment": "Lose he executive clearly worker cost detail."
+        },
+        {
+          "user": "Elizabeth Daniels",
+          "stars": 1,
+          "comment": "Instead market law agree local."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-2",
+      "https://source.unsplash.com/800x600/?Sufuria-2"
+    ],
+    "variants": [
+      {
+        "id": "2a",
+        "color": "LawnGreen",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-2-0"
+      },
+      {
+        "id": "2b",
+        "color": "Pink",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-2-1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nakumatt Sufuria Skin",
+    "category": "Home & Kitchen",
+    "price": 18953,
+    "currency": "KES",
+    "brand": "Dormans",
+    "description": "Media best more common design. Eat both seat character what among.",
+    "rating": {
+      "average": 4.1,
+      "count": 10,
+      "reviews": [
+        {
+          "user": "Mrs. Taylor Martin MD",
+          "stars": 1,
+          "comment": "Plant environmental deal affect energy talk."
+        },
+        {
+          "user": "Brittany Moody",
+          "stars": 3,
+          "comment": "Family girl it sure away sister."
+        },
+        {
+          "user": "Heather Martinez",
+          "stars": 2,
+          "comment": "Cultural mention up push area huge man."
+        },
+        {
+          "user": "John Wu",
+          "stars": 3,
+          "comment": "Fly former art."
+        },
+        {
+          "user": "Tyler Newman",
+          "stars": 3,
+          "comment": "Before easy model gas behavior."
+        },
+        {
+          "user": "Heather Hooper",
+          "stars": 3,
+          "comment": "Look president guess game."
+        },
+        {
+          "user": "Richard Lee",
+          "stars": 2,
+          "comment": "Do move federal woman station leader investment."
+        },
+        {
+          "user": "Marcus Wallace",
+          "stars": 3,
+          "comment": "Require if involve thus model Mr local."
+        },
+        {
+          "user": "Cody Lewis",
+          "stars": 5,
+          "comment": "Event point collection him do person."
+        },
+        {
+          "user": "Mitchell Davis",
+          "stars": 2,
+          "comment": "Show account while improve economy treat."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-3",
+      "https://source.unsplash.com/800x600/?Sufuria-3"
+    ],
+    "variants": [
+      {
+        "id": "3a",
+        "color": "LightCyan",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-3-0"
+      },
+      {
+        "id": "3b",
+        "color": "Coral",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-3-1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dormans Bati Issue",
+    "category": "Home & Kitchen",
+    "price": 15834,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "People a sea threat everyone close west just. Group bring purpose director measure. Use traditional star public drop defense necessary. Last book yes development foot a air.",
+    "rating": {
+      "average": 3.6,
+      "count": 8,
+      "reviews": [
+        {
+          "user": "Andrew Myers",
+          "stars": 5,
+          "comment": "Program turn author defense fill."
+        },
+        {
+          "user": "Michelle Good",
+          "stars": 4,
+          "comment": "At another kind take note why."
+        },
+        {
+          "user": "Deborah Nichols",
+          "stars": 5,
+          "comment": "Beat idea nearly catch answer necessary."
+        },
+        {
+          "user": "Keith Brown",
+          "stars": 5,
+          "comment": "Leg spring hot might look."
+        },
+        {
+          "user": "Frank Mueller",
+          "stars": 4,
+          "comment": "Nothing since paper."
+        },
+        {
+          "user": "Russell Roberts",
+          "stars": 5,
+          "comment": "Term away yourself law political him member."
+        },
+        {
+          "user": "Lisa Peters",
+          "stars": 1,
+          "comment": "More matter full cell simple."
+        },
+        {
+          "user": "Michael Santiago",
+          "stars": 5,
+          "comment": "Before month same page responsibility society fish."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-4",
+      "https://source.unsplash.com/800x600/?Bati-4"
+    ],
+    "variants": [
+      {
+        "id": "4a",
+        "color": "SteelBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Bati-4-0"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Safaricom Redio Peace",
+    "category": "Electronics",
+    "price": 19309,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Kid exist shake according condition none. Almost who model media clear pay tell. Plan court strategy argue point technology. Hard window himself weight artist religious yes.",
+    "rating": {
+      "average": 4.9,
+      "count": 17,
+      "reviews": [
+        {
+          "user": "Nicole Oneill",
+          "stars": 1,
+          "comment": "My wife I three reality."
+        },
+        {
+          "user": "William Schultz",
+          "stars": 3,
+          "comment": "Likely during father stand even person teach be."
+        },
+        {
+          "user": "Jesse Thompson",
+          "stars": 4,
+          "comment": "Nothing right whether yet little."
+        },
+        {
+          "user": "Kevin White MD",
+          "stars": 2,
+          "comment": "Discussion crime little."
+        },
+        {
+          "user": "Neil Leonard",
+          "stars": 2,
+          "comment": "Could effort usually man attention listen smile color."
+        },
+        {
+          "user": "Debbie Johnson",
+          "stars": 3,
+          "comment": "That health individual."
+        },
+        {
+          "user": "Michael Green",
+          "stars": 5,
+          "comment": "Perform person security identify."
+        },
+        {
+          "user": "Derek Proctor",
+          "stars": 5,
+          "comment": "Big call name leg any."
+        },
+        {
+          "user": "Marcus Jackson",
+          "stars": 5,
+          "comment": "House cause able better wear."
+        },
+        {
+          "user": "Laura Bowen",
+          "stars": 2,
+          "comment": "Yeah move nice."
+        },
+        {
+          "user": "Daniel Lewis",
+          "stars": 3,
+          "comment": "Agree subject himself three mouth network care."
+        },
+        {
+          "user": "Alexander Rodriguez",
+          "stars": 3,
+          "comment": "Million sometimes sell significant."
+        },
+        {
+          "user": "Kathryn Miles",
+          "stars": 3,
+          "comment": "According friend hard base suggest network eat."
+        },
+        {
+          "user": "Kyle Jimenez",
+          "stars": 3,
+          "comment": "Prove loss from seven."
+        },
+        {
+          "user": "Nancy Foster",
+          "stars": 2,
+          "comment": "Character through key right usually quality north."
+        },
+        {
+          "user": "Natasha Pittman",
+          "stars": 2,
+          "comment": "Serious treatment every professional social."
+        },
+        {
+          "user": "Rodney Peters",
+          "stars": 2,
+          "comment": "Culture growth light Mrs."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-5",
+      "https://source.unsplash.com/800x600/?Redio-5"
+    ],
+    "variants": [
+      {
+        "id": "5a",
+        "color": "White",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Redio-5-0"
+      },
+      {
+        "id": "5b",
+        "color": "DimGray",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Redio-5-1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Safaricom Kofia Improve",
+    "category": "Fashion",
+    "price": 27994,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Pretty always yard exactly than financial tell. Stage stock example contain suggest.",
+    "rating": {
+      "average": 3.8,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Lacey Maxwell",
+          "stars": 5,
+          "comment": "Although magazine particularly media bag."
+        },
+        {
+          "user": "Cody Welch",
+          "stars": 1,
+          "comment": "Southern investment cold at doctor house."
+        },
+        {
+          "user": "Paul Harrison",
+          "stars": 4,
+          "comment": "Bed say similar it development."
+        },
+        {
+          "user": "Patricia Robles",
+          "stars": 2,
+          "comment": "Direction most inside social."
+        },
+        {
+          "user": "Marvin Robbins",
+          "stars": 4,
+          "comment": "Finish rich political word international."
+        },
+        {
+          "user": "Michaela Aguirre",
+          "stars": 1,
+          "comment": "Price heavy daughter record capital industry."
+        },
+        {
+          "user": "Linda Baker",
+          "stars": 3,
+          "comment": "Low sport almost today eight."
+        },
+        {
+          "user": "Edward Abbott",
+          "stars": 5,
+          "comment": "However community employee concern leader."
+        },
+        {
+          "user": "Catherine Griffin",
+          "stars": 2,
+          "comment": "Public baby perhaps choose college politics conference."
+        },
+        {
+          "user": "Kimberly Johnson",
+          "stars": 4,
+          "comment": "Structure home stage something beautiful."
+        },
+        {
+          "user": "Brooke Burke",
+          "stars": 4,
+          "comment": "Hair piece similar college itself push quality."
+        },
+        {
+          "user": "Kimberly Adams",
+          "stars": 1,
+          "comment": "Land him draw woman major."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-6",
+      "https://source.unsplash.com/800x600/?Kofia-6"
+    ],
+    "variants": [
+      {
+        "id": "6a",
+        "color": "PapayaWhip",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kofia-6-0"
+      },
+      {
+        "id": "6b",
+        "color": "DarkSlateBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kofia-6-1"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Brookside Viatu Left",
+    "category": "Fashion",
+    "price": 13988,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Become middle conference land nature Congress so. Within me long people address. Whatever common civil dark.",
+    "rating": {
+      "average": 3.6,
+      "count": 6,
+      "reviews": [
+        {
+          "user": "Andrew Crawford",
+          "stars": 1,
+          "comment": "End also new wear lay plant culture."
+        },
+        {
+          "user": "Chris Singh",
+          "stars": 2,
+          "comment": "Return live forward four look energy world maintain."
+        },
+        {
+          "user": "Troy Watts",
+          "stars": 2,
+          "comment": "Star sea left spring talk opportunity relationship tonight."
+        },
+        {
+          "user": "Karen Porter",
+          "stars": 4,
+          "comment": "Thought win address ten wear attention mission."
+        },
+        {
+          "user": "Angela Cole",
+          "stars": 2,
+          "comment": "Red special its conference."
+        },
+        {
+          "user": "Alexander Hansen",
+          "stars": 3,
+          "comment": "Audience language newspaper wish detail never."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-7",
+      "https://source.unsplash.com/800x600/?Viatu-7"
+    ],
+    "variants": [
+      {
+        "id": "7a",
+        "color": "DarkBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Viatu-7-0"
+      },
+      {
+        "id": "7b",
+        "color": "SlateBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Viatu-7-1"
+      },
+      {
+        "id": "7c",
+        "color": "GhostWhite",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Viatu-7-2"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Java House Unga Land",
+    "category": "Groceries",
+    "price": 4183,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Family be green already not fall. Commercial than behavior fund then point drop. In road rest put. Can give account close just.",
+    "rating": {
+      "average": 4.4,
+      "count": 17,
+      "reviews": [
+        {
+          "user": "Julia Reynolds",
+          "stars": 2,
+          "comment": "Alone result rule understand learn inside."
+        },
+        {
+          "user": "Brian Hatfield",
+          "stars": 4,
+          "comment": "Close theory positive tend believe."
+        },
+        {
+          "user": "Michelle Weber",
+          "stars": 2,
+          "comment": "Force prevent two woman tree."
+        },
+        {
+          "user": "Sarah Perry",
+          "stars": 2,
+          "comment": "Now here list less officer real beyond."
+        },
+        {
+          "user": "Cynthia Ray",
+          "stars": 3,
+          "comment": "Each service recent plan."
+        },
+        {
+          "user": "Allison Thompson",
+          "stars": 5,
+          "comment": "Apply writer instead find mention threat."
+        },
+        {
+          "user": "Denise Richardson",
+          "stars": 1,
+          "comment": "Study teacher include camera force school ahead."
+        },
+        {
+          "user": "Katherine Ramos",
+          "stars": 4,
+          "comment": "Figure beat professor sit our recent."
+        },
+        {
+          "user": "Sarah Rodgers",
+          "stars": 2,
+          "comment": "Other address although recently."
+        },
+        {
+          "user": "Olivia Werner",
+          "stars": 2,
+          "comment": "Hair left cover likely couple actually piece everything."
+        },
+        {
+          "user": "Tina Church",
+          "stars": 1,
+          "comment": "Range police follow light try."
+        },
+        {
+          "user": "Brian Palmer",
+          "stars": 5,
+          "comment": "Investment example marriage center wind list."
+        },
+        {
+          "user": "David Hill",
+          "stars": 3,
+          "comment": "Imagine beautiful choose."
+        },
+        {
+          "user": "David Meyer",
+          "stars": 4,
+          "comment": "Then forward and."
+        },
+        {
+          "user": "Cody Ingram",
+          "stars": 4,
+          "comment": "Style apply focus choice star must week."
+        },
+        {
+          "user": "Kyle Garcia",
+          "stars": 5,
+          "comment": "Charge behind what little yes significant across."
+        },
+        {
+          "user": "John Stewart",
+          "stars": 5,
+          "comment": "Beyond education miss serve yet."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-8",
+      "https://source.unsplash.com/800x600/?Unga-8"
+    ],
+    "variants": [
+      {
+        "id": "8a",
+        "color": "Coral",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Unga-8-0"
+      },
+      {
+        "id": "8b",
+        "color": "Gold",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Unga-8-1"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bidco Simu Sell",
+    "category": "Electronics",
+    "price": 1549,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Article eye activity describe customer half reach. Who want bit wear. Sense morning next.",
+    "rating": {
+      "average": 4.8,
+      "count": 13,
+      "reviews": [
+        {
+          "user": "Tammy May",
+          "stars": 4,
+          "comment": "Bill hot exist meet huge determine."
+        },
+        {
+          "user": "Tiffany Robinson",
+          "stars": 2,
+          "comment": "To goal those middle evidence."
+        },
+        {
+          "user": "Anthony Edwards",
+          "stars": 4,
+          "comment": "However ask full play data born."
+        },
+        {
+          "user": "Aaron Taylor",
+          "stars": 4,
+          "comment": "Will message might current."
+        },
+        {
+          "user": "Daniel Carter",
+          "stars": 5,
+          "comment": "Group place born effort some."
+        },
+        {
+          "user": "Tiffany Martinez",
+          "stars": 5,
+          "comment": "Nation identify college whether sign focus."
+        },
+        {
+          "user": "Anthony Avila",
+          "stars": 1,
+          "comment": "Likely explain cover."
+        },
+        {
+          "user": "Lori Davis",
+          "stars": 5,
+          "comment": "Buy traditional indicate side recent."
+        },
+        {
+          "user": "Rhonda Gonzalez",
+          "stars": 3,
+          "comment": "Week minute radio success."
+        },
+        {
+          "user": "Amanda Warner",
+          "stars": 2,
+          "comment": "Bring bag meeting oil."
+        },
+        {
+          "user": "Candice Wells",
+          "stars": 2,
+          "comment": "Network such difficult actually deal."
+        },
+        {
+          "user": "Lance Sanchez MD",
+          "stars": 1,
+          "comment": "Wife station feel oil rock simply economic."
+        },
+        {
+          "user": "Connie Munoz",
+          "stars": 1,
+          "comment": "Wear unit pass white president modern detail."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-9",
+      "https://source.unsplash.com/800x600/?Simu-9"
+    ],
+    "variants": [
+      {
+        "id": "9a",
+        "color": "GoldenRod",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Simu-9-0"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bidco Kaniki Husband",
+    "category": "Fashion",
+    "price": 22616,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Human admit commercial. Firm skill human stand carry. Available past table serve from long.",
+    "rating": {
+      "average": 3.8,
+      "count": 18,
+      "reviews": [
+        {
+          "user": "Nichole Romero",
+          "stars": 2,
+          "comment": "Board section themselves machine interest activity."
+        },
+        {
+          "user": "Thomas Shannon",
+          "stars": 2,
+          "comment": "Outside plant instead health ability country save whose."
+        },
+        {
+          "user": "Deborah Houston",
+          "stars": 1,
+          "comment": "Relate central six reach speak."
+        },
+        {
+          "user": "Jennifer Orozco",
+          "stars": 4,
+          "comment": "Step various drop down."
+        },
+        {
+          "user": "Stephen Cross",
+          "stars": 3,
+          "comment": "Opportunity hear draw sit news baby."
+        },
+        {
+          "user": "Brian Alexander",
+          "stars": 1,
+          "comment": "Decade view arm recently candidate parent sell phone."
+        },
+        {
+          "user": "Alexis Gardner",
+          "stars": 4,
+          "comment": "Green move under part general system positive Mrs."
+        },
+        {
+          "user": "Danielle Jones",
+          "stars": 4,
+          "comment": "Quickly campaign available pretty."
+        },
+        {
+          "user": "Andrea Mills",
+          "stars": 5,
+          "comment": "Audience seek himself long."
+        },
+        {
+          "user": "Sarah Rowe",
+          "stars": 1,
+          "comment": "Outside impact able amount."
+        },
+        {
+          "user": "Teresa Henderson",
+          "stars": 1,
+          "comment": "Remember thing daughter."
+        },
+        {
+          "user": "Christopher Lopez",
+          "stars": 5,
+          "comment": "Lose what middle agree commercial short."
+        },
+        {
+          "user": "Carrie Williams",
+          "stars": 5,
+          "comment": "Family others such our expert of."
+        },
+        {
+          "user": "Melinda Murphy",
+          "stars": 2,
+          "comment": "Another collection protect better when who."
+        },
+        {
+          "user": "Amanda Ward",
+          "stars": 5,
+          "comment": "Defense day small agent campaign him none none."
+        },
+        {
+          "user": "Matthew Garrett",
+          "stars": 4,
+          "comment": "Four wear vote political pay imagine."
+        },
+        {
+          "user": "Laura Meadows",
+          "stars": 2,
+          "comment": "Watch among those teach toward."
+        },
+        {
+          "user": "Jonathan Bradley",
+          "stars": 1,
+          "comment": "Feeling vote many conference herself evidence."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-10",
+      "https://source.unsplash.com/800x600/?Kaniki-10"
+    ],
+    "variants": [
+      {
+        "id": "10a",
+        "color": "Gold",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-10-0"
+      },
+      {
+        "id": "10b",
+        "color": "DarkMagenta",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-10-1"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dormans Viatu Avoid",
+    "category": "Fashion",
+    "price": 5865,
+    "currency": "KES",
+    "brand": "Dormans",
+    "description": "Activity generation happy minute age fact. Simply interview life yard. Send whom tonight.",
+    "rating": {
+      "average": 4.9,
+      "count": 5,
+      "reviews": [
+        {
+          "user": "Yvonne Mcbride",
+          "stars": 3,
+          "comment": "Tree other ok together."
+        },
+        {
+          "user": "Kelly Perez",
+          "stars": 3,
+          "comment": "Scene fine us."
+        },
+        {
+          "user": "Danny Johnson",
+          "stars": 5,
+          "comment": "Commercial teach world woman know political."
+        },
+        {
+          "user": "Ariel Oneal",
+          "stars": 2,
+          "comment": "Born speak one risk summer."
+        },
+        {
+          "user": "Elizabeth Pham",
+          "stars": 2,
+          "comment": "Of seek language majority size."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-11",
+      "https://source.unsplash.com/800x600/?Viatu-11"
+    ],
+    "variants": [
+      {
+        "id": "11a",
+        "color": "Turquoise",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Viatu-11-0"
+      },
+      {
+        "id": "11b",
+        "color": "Orange",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Viatu-11-1"
+      },
+      {
+        "id": "11c",
+        "color": "DodgerBlue",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Viatu-11-2"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Safaricom Rada Difference",
+    "category": "Electronics",
+    "price": 16030,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Not his enter perhaps. Two color building firm past democratic city character. Stock southern order investment call trial subject. Like measure glass plant rock far social.",
+    "rating": {
+      "average": 3.6,
+      "count": 15,
+      "reviews": [
+        {
+          "user": "Chad Blackburn",
+          "stars": 1,
+          "comment": "Huge pretty model hospital oil particularly hot."
+        },
+        {
+          "user": "Mark Sanchez",
+          "stars": 2,
+          "comment": "Discussion know foot should management throughout thousand."
+        },
+        {
+          "user": "Mary Soto",
+          "stars": 2,
+          "comment": "Yeah include example water."
+        },
+        {
+          "user": "Toni Jones",
+          "stars": 5,
+          "comment": "Suggest out leg."
+        },
+        {
+          "user": "Zachary Brewer",
+          "stars": 4,
+          "comment": "Street national build join only."
+        },
+        {
+          "user": "Vernon Beasley",
+          "stars": 2,
+          "comment": "Better expert paper lead bag."
+        },
+        {
+          "user": "Alyssa Riley",
+          "stars": 1,
+          "comment": "One soldier stop official environment until small."
+        },
+        {
+          "user": "Kenneth Ramirez",
+          "stars": 5,
+          "comment": "Lot contain safe choose."
+        },
+        {
+          "user": "Christopher Nielsen",
+          "stars": 2,
+          "comment": "Some impact step offer get."
+        },
+        {
+          "user": "Dan Spears",
+          "stars": 4,
+          "comment": "Late cell need moment provide traditional."
+        },
+        {
+          "user": "Bianca Manning",
+          "stars": 2,
+          "comment": "Reveal tree free dark stuff sign."
+        },
+        {
+          "user": "Donald Santos",
+          "stars": 3,
+          "comment": "Structure customer reality style poor environment create."
+        },
+        {
+          "user": "Brittany Pierce",
+          "stars": 5,
+          "comment": "New area travel able."
+        },
+        {
+          "user": "Kristina Phelps",
+          "stars": 2,
+          "comment": "Pm most difficult attack."
+        },
+        {
+          "user": "Adam Rodriguez",
+          "stars": 1,
+          "comment": "Science hotel billion according compare know friend."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-12",
+      "https://source.unsplash.com/800x600/?Rada-12"
+    ],
+    "variants": [
+      {
+        "id": "12a",
+        "color": "Lime",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Rada-12-0"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Brookside Kofia Attention",
+    "category": "Fashion",
+    "price": 27633,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Black city ability better above deep notice. Save tough cost year whom message response. Size suggest simply specific.",
+    "rating": {
+      "average": 4.5,
+      "count": 19,
+      "reviews": [
+        {
+          "user": "Olivia Ewing",
+          "stars": 2,
+          "comment": "President name student standard."
+        },
+        {
+          "user": "Jennifer Powell",
+          "stars": 1,
+          "comment": "Pass test case local information effort."
+        },
+        {
+          "user": "Michael Knight",
+          "stars": 3,
+          "comment": "Figure world they because development."
+        },
+        {
+          "user": "Antonio Brooks",
+          "stars": 3,
+          "comment": "Program nature ago me."
+        },
+        {
+          "user": "Cynthia Peterson",
+          "stars": 4,
+          "comment": "Family stop range I."
+        },
+        {
+          "user": "Ian White",
+          "stars": 2,
+          "comment": "Care amount example certainly free despite model."
+        },
+        {
+          "user": "Benjamin Wood",
+          "stars": 5,
+          "comment": "Throughout only suddenly action best alone degree."
+        },
+        {
+          "user": "Joseph Castro",
+          "stars": 1,
+          "comment": "Air final would."
+        },
+        {
+          "user": "James Park",
+          "stars": 3,
+          "comment": "Condition tough too."
+        },
+        {
+          "user": "Michelle Gross",
+          "stars": 1,
+          "comment": "Must first poor red direction responsibility."
+        },
+        {
+          "user": "Nathan Nelson",
+          "stars": 3,
+          "comment": "Beat happy how son PM according total."
+        },
+        {
+          "user": "Donald Peck",
+          "stars": 3,
+          "comment": "Property need name life."
+        },
+        {
+          "user": "Aaron Wood",
+          "stars": 3,
+          "comment": "Summer begin beyond born continue effect."
+        },
+        {
+          "user": "Roger Rogers MD",
+          "stars": 1,
+          "comment": "Interview oil push feeling."
+        },
+        {
+          "user": "Robert Robinson",
+          "stars": 2,
+          "comment": "Fall president form popular how today cultural fine."
+        },
+        {
+          "user": "Susan Jacobs",
+          "stars": 5,
+          "comment": "End prevent begin home."
+        },
+        {
+          "user": "Michele Love",
+          "stars": 4,
+          "comment": "Step base past change ok."
+        },
+        {
+          "user": "Jared Daniels",
+          "stars": 3,
+          "comment": "Throw responsibility final than president."
+        },
+        {
+          "user": "Rebekah Bennett",
+          "stars": 5,
+          "comment": "Current himself teach second long his near probably."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-13",
+      "https://source.unsplash.com/800x600/?Kofia-13"
+    ],
+    "variants": [
+      {
+        "id": "13a",
+        "color": "LightGoldenRodYellow",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kofia-13-0"
+      },
+      {
+        "id": "13b",
+        "color": "OliveDrab",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kofia-13-1"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bidco Laptop Actually",
+    "category": "Electronics",
+    "price": 16019,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Two huge civil friend trip establish apply. About law off couple performance pick. Always message test.",
+    "rating": {
+      "average": 4.8,
+      "count": 5,
+      "reviews": [
+        {
+          "user": "Lisa Montes",
+          "stars": 2,
+          "comment": "Away machine author environment painting stop decade business."
+        },
+        {
+          "user": "Jackson Hawkins",
+          "stars": 5,
+          "comment": "Physical west report population bed color."
+        },
+        {
+          "user": "Shaun Williams",
+          "stars": 1,
+          "comment": "Especially prove maintain number."
+        },
+        {
+          "user": "Sharon Morris",
+          "stars": 1,
+          "comment": "Experience career board on modern."
+        },
+        {
+          "user": "Stephanie Huff",
+          "stars": 2,
+          "comment": "Air research draw market instead option."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-14",
+      "https://source.unsplash.com/800x600/?Laptop-14"
+    ],
+    "variants": [
+      {
+        "id": "14a",
+        "color": "Crimson",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Laptop-14-0"
+      },
+      {
+        "id": "14b",
+        "color": "AntiqueWhite",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Laptop-14-1"
+      },
+      {
+        "id": "14c",
+        "color": "DodgerBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Laptop-14-2"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Nakumatt Laptop Personal",
+    "category": "Electronics",
+    "price": 14829,
+    "currency": "KES",
+    "brand": "Dormans",
+    "description": "Five technology professor these. Behind leader compare building reach whom if. Amount range pass. Today matter medical later.",
+    "rating": {
+      "average": 4.3,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Allen Hunt",
+          "stars": 2,
+          "comment": "Well together property."
+        },
+        {
+          "user": "Alex Figueroa",
+          "stars": 1,
+          "comment": "Race mind four song hospital gas election."
+        },
+        {
+          "user": "John Wilkerson",
+          "stars": 4,
+          "comment": "Relate heart community car."
+        },
+        {
+          "user": "Paula Kim",
+          "stars": 2,
+          "comment": "Now prepare audience wall."
+        },
+        {
+          "user": "Craig Francis",
+          "stars": 2,
+          "comment": "Stage really doctor late."
+        },
+        {
+          "user": "Charles Ritter",
+          "stars": 2,
+          "comment": "Ready project toward third nor and positive."
+        },
+        {
+          "user": "Kevin Ward",
+          "stars": 3,
+          "comment": "Act official product less within above."
+        },
+        {
+          "user": "David Henry",
+          "stars": 2,
+          "comment": "Despite stop family table common determine discover."
+        },
+        {
+          "user": "Linda Lopez",
+          "stars": 4,
+          "comment": "Understand money home."
+        },
+        {
+          "user": "Troy Kim",
+          "stars": 5,
+          "comment": "Almost treatment debate million move."
+        },
+        {
+          "user": "Marc Soto",
+          "stars": 2,
+          "comment": "First key the candidate how state."
+        },
+        {
+          "user": "Michael Mcguire",
+          "stars": 2,
+          "comment": "Drop father source assume."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-15",
+      "https://source.unsplash.com/800x600/?Laptop-15"
+    ],
+    "variants": [
+      {
+        "id": "15a",
+        "color": "Gold",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Laptop-15-0"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nakumatt Kitenge Prevent",
+    "category": "Fashion",
+    "price": 1204,
+    "currency": "KES",
+    "brand": "Dormans",
+    "description": "Involve dark happen home three consumer. Body issue painting themselves there deep. Person computer financial fight ability build eat. Mother fact water will.",
+    "rating": {
+      "average": 3.5,
+      "count": 7,
+      "reviews": [
+        {
+          "user": "Julian Wilson",
+          "stars": 2,
+          "comment": "Time treat total key wife."
+        },
+        {
+          "user": "Benjamin Watts",
+          "stars": 4,
+          "comment": "These against defense employee team."
+        },
+        {
+          "user": "Lindsey Anderson",
+          "stars": 3,
+          "comment": "Plant truth expect vote within general."
+        },
+        {
+          "user": "Lisa Howard",
+          "stars": 4,
+          "comment": "Call despite board understand ask realize."
+        },
+        {
+          "user": "Darin Hunt",
+          "stars": 4,
+          "comment": "Necessary financial serve line."
+        },
+        {
+          "user": "Ashley Mcguire",
+          "stars": 3,
+          "comment": "Indicate reason help whatever course especially agree thought."
+        },
+        {
+          "user": "Michael Brown",
+          "stars": 4,
+          "comment": "Happen base event executive dark fish."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-16",
+      "https://source.unsplash.com/800x600/?Kitenge-16"
+    ],
+    "variants": [
+      {
+        "id": "16a",
+        "color": "PapayaWhip",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kitenge-16-0"
+      },
+      {
+        "id": "16b",
+        "color": "LavenderBlush",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kitenge-16-1"
+      },
+      {
+        "id": "16c",
+        "color": "Beige",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kitenge-16-2"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Java House Sufuria Open",
+    "category": "Home & Kitchen",
+    "price": 27532,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Sell simple past. Protect college top sort ahead article big table. Stuff street century.",
+    "rating": {
+      "average": 3.7,
+      "count": 5,
+      "reviews": [
+        {
+          "user": "Leslie Jones",
+          "stars": 3,
+          "comment": "Argue myself including."
+        },
+        {
+          "user": "Sharon Vega",
+          "stars": 2,
+          "comment": "Popular still Mr fill."
+        },
+        {
+          "user": "Kathryn Jones",
+          "stars": 1,
+          "comment": "Include notice pattern tonight particularly else suggest."
+        },
+        {
+          "user": "Kelly Hughes",
+          "stars": 3,
+          "comment": "Rule son executive serve goal."
+        },
+        {
+          "user": "Marcus Nelson",
+          "stars": 2,
+          "comment": "Different her carry product include."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-17",
+      "https://source.unsplash.com/800x600/?Sufuria-17"
+    ],
+    "variants": [
+      {
+        "id": "17a",
+        "color": "FloralWhite",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-17-0"
+      },
+      {
+        "id": "17b",
+        "color": "PaleTurquoise",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-17-1"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Safaricom Kikombe Throw",
+    "category": "Home & Kitchen",
+    "price": 24902,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "One yourself light. Arm similar outside place vote just teach serve.",
+    "rating": {
+      "average": 4.0,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Amanda Carrillo",
+          "stars": 5,
+          "comment": "Country leg black poor choose."
+        },
+        {
+          "user": "Justin Spencer",
+          "stars": 2,
+          "comment": "Story technology key school area."
+        },
+        {
+          "user": "Mark Bush",
+          "stars": 5,
+          "comment": "Contain remember phone."
+        },
+        {
+          "user": "Brian Beck",
+          "stars": 3,
+          "comment": "Scientist fast get realize."
+        },
+        {
+          "user": "Charles Carter",
+          "stars": 2,
+          "comment": "Task stop carry now."
+        },
+        {
+          "user": "Caleb Smith",
+          "stars": 3,
+          "comment": "Health glass need protect reach wide person."
+        },
+        {
+          "user": "Melissa Peck",
+          "stars": 3,
+          "comment": "Before lot manage find positive."
+        },
+        {
+          "user": "Emily Short",
+          "stars": 1,
+          "comment": "Lay total reach executive ten name final."
+        },
+        {
+          "user": "Yvonne Mcintosh",
+          "stars": 1,
+          "comment": "Memory begin measure worker far seven war."
+        },
+        {
+          "user": "Raven Powell",
+          "stars": 2,
+          "comment": "Save model behind body good watch."
+        },
+        {
+          "user": "Christopher Mosley",
+          "stars": 4,
+          "comment": "Head move dark anything far should heavy."
+        },
+        {
+          "user": "Jeffrey Kim",
+          "stars": 1,
+          "comment": "Market yourself under start mean try consumer."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-18",
+      "https://source.unsplash.com/800x600/?Kikombe-18"
+    ],
+    "variants": [
+      {
+        "id": "18a",
+        "color": "DarkSeaGreen",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-18-0"
+      },
+      {
+        "id": "18b",
+        "color": "MidnightBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-18-1"
+      },
+      {
+        "id": "18c",
+        "color": "Teal",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-18-2"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Java House Redio Interview",
+    "category": "Electronics",
+    "price": 20869,
+    "currency": "KES",
+    "brand": "Kiondo",
+    "description": "Serious financial front. Day owner then successful computer citizen. Actually statement environmental address four very push. Gas draw wife worry as return term.",
+    "rating": {
+      "average": 4.0,
+      "count": 16,
+      "reviews": [
+        {
+          "user": "Margaret Nixon",
+          "stars": 2,
+          "comment": "Provide TV kind relate carry direction."
+        },
+        {
+          "user": "Melissa Conley",
+          "stars": 1,
+          "comment": "True product necessary law a."
+        },
+        {
+          "user": "Lisa Spence",
+          "stars": 2,
+          "comment": "Employee despite entire fire."
+        },
+        {
+          "user": "Linda Novak",
+          "stars": 3,
+          "comment": "Measure per sure foot religious major."
+        },
+        {
+          "user": "Anita Johnson MD",
+          "stars": 5,
+          "comment": "Attack listen detail rate wish."
+        },
+        {
+          "user": "Andres Martin",
+          "stars": 1,
+          "comment": "Say design stock commercial rule test."
+        },
+        {
+          "user": "Jennifer Reese",
+          "stars": 1,
+          "comment": "Hundred produce back to fear conference glass."
+        },
+        {
+          "user": "Pamela James",
+          "stars": 1,
+          "comment": "Pm truth market."
+        },
+        {
+          "user": "Dillon Benson",
+          "stars": 2,
+          "comment": "Relationship smile clearly run skill dark."
+        },
+        {
+          "user": "Linda Rangel",
+          "stars": 2,
+          "comment": "Conference rise if note green."
+        },
+        {
+          "user": "Shawn Gallagher",
+          "stars": 2,
+          "comment": "Rest social religious left remember citizen about old."
+        },
+        {
+          "user": "Jennifer Montgomery",
+          "stars": 4,
+          "comment": "Off stop center risk."
+        },
+        {
+          "user": "Joseph Romero",
+          "stars": 5,
+          "comment": "Beautiful Mr likely policy Democrat region yes cover."
+        },
+        {
+          "user": "Chad Ortega",
+          "stars": 5,
+          "comment": "Kid model house."
+        },
+        {
+          "user": "Terry Flores",
+          "stars": 4,
+          "comment": "Thousand Democrat these."
+        },
+        {
+          "user": "Joseph Martinez",
+          "stars": 2,
+          "comment": "Three pass hope green sure."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-19",
+      "https://source.unsplash.com/800x600/?Redio-19"
+    ],
+    "variants": [
+      {
+        "id": "19a",
+        "color": "BurlyWood",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Redio-19-0"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Brookside Kofia Write",
+    "category": "Fashion",
+    "price": 25115,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Late project society apply. Benefit race their dream. Person could team those. Great police care suffer.",
+    "rating": {
+      "average": 3.5,
+      "count": 18,
+      "reviews": [
+        {
+          "user": "Matthew Harvey",
+          "stars": 3,
+          "comment": "Help hot product."
+        },
+        {
+          "user": "Gregory Williams",
+          "stars": 5,
+          "comment": "Father unit quality doctor see be."
+        },
+        {
+          "user": "Theresa Kent",
+          "stars": 3,
+          "comment": "Everyone eye word how set like instead help."
+        },
+        {
+          "user": "Debra Murphy",
+          "stars": 1,
+          "comment": "Past billion tree particularly."
+        },
+        {
+          "user": "Michael Ramirez",
+          "stars": 3,
+          "comment": "Maybe imagine leg finish degree."
+        },
+        {
+          "user": "Dr. Connor Anderson",
+          "stars": 1,
+          "comment": "Option quite just region data including."
+        },
+        {
+          "user": "Debra Brewer",
+          "stars": 1,
+          "comment": "Mother city impact beyond available possible help."
+        },
+        {
+          "user": "Chelsea Hernandez",
+          "stars": 2,
+          "comment": "Hard hour data."
+        },
+        {
+          "user": "Justin Rodriguez",
+          "stars": 5,
+          "comment": "Design full go."
+        },
+        {
+          "user": "Jennifer Mueller",
+          "stars": 1,
+          "comment": "Environmental force cell."
+        },
+        {
+          "user": "Ricky Perez",
+          "stars": 4,
+          "comment": "Policy participant event notice fight."
+        },
+        {
+          "user": "Brett Reyes",
+          "stars": 5,
+          "comment": "Nice by such."
+        },
+        {
+          "user": "Kenneth Thompson",
+          "stars": 1,
+          "comment": "Especially edge least as reveal include."
+        },
+        {
+          "user": "David Brennan",
+          "stars": 5,
+          "comment": "Admit day allow form."
+        },
+        {
+          "user": "Andrew Blevins",
+          "stars": 3,
+          "comment": "Ground laugh ahead degree enjoy."
+        },
+        {
+          "user": "Jeffrey Martinez DDS",
+          "stars": 5,
+          "comment": "Soldier bring happen election."
+        },
+        {
+          "user": "Robin Brown",
+          "stars": 1,
+          "comment": "Live cut foot turn reflect staff store hear."
+        },
+        {
+          "user": "Fred Robinson",
+          "stars": 5,
+          "comment": "Music manager control clearly parent religious."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-20",
+      "https://source.unsplash.com/800x600/?Kofia-20"
+    ],
+    "variants": [
+      {
+        "id": "20a",
+        "color": "Teal",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kofia-20-0"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bidco Redio Professor",
+    "category": "Electronics",
+    "price": 5238,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Morning goal bag couple ground hair. Choose across down prove most force. Change value from herself concern role. Build learn suggest end out few.",
+    "rating": {
+      "average": 3.8,
+      "count": 18,
+      "reviews": [
+        {
+          "user": "Donna Lopez",
+          "stars": 5,
+          "comment": "Apply line me my material weight simple."
+        },
+        {
+          "user": "Monique Fuller DDS",
+          "stars": 5,
+          "comment": "There allow baby floor maybe religious happy table."
+        },
+        {
+          "user": "Laura Norton",
+          "stars": 2,
+          "comment": "She six friend place radio around."
+        },
+        {
+          "user": "Zachary Johnson",
+          "stars": 2,
+          "comment": "Product area stage make major fact loss."
+        },
+        {
+          "user": "Laura Davis",
+          "stars": 5,
+          "comment": "Size simply bag major smile."
+        },
+        {
+          "user": "Lisa White",
+          "stars": 3,
+          "comment": "Hair these month unit check single."
+        },
+        {
+          "user": "Christopher Miller",
+          "stars": 4,
+          "comment": "First magazine these music."
+        },
+        {
+          "user": "Michael Hoffman",
+          "stars": 2,
+          "comment": "Over listen member station have stage early practice."
+        },
+        {
+          "user": "Jamie Weber",
+          "stars": 5,
+          "comment": "Huge suffer including."
+        },
+        {
+          "user": "Thomas Ortiz",
+          "stars": 3,
+          "comment": "May soon grow my ready study."
+        },
+        {
+          "user": "Jennifer Newton",
+          "stars": 3,
+          "comment": "Value trouble region some difference inside."
+        },
+        {
+          "user": "Anthony Frost",
+          "stars": 3,
+          "comment": "Lose under you very employee."
+        },
+        {
+          "user": "Rachel Ray",
+          "stars": 2,
+          "comment": "Agency worker worker how protect."
+        },
+        {
+          "user": "Michelle Navarro",
+          "stars": 2,
+          "comment": "Pass citizen election group."
+        },
+        {
+          "user": "Seth Brooks",
+          "stars": 1,
+          "comment": "Matter candidate listen social culture relationship simple call."
+        },
+        {
+          "user": "Tamara Hill",
+          "stars": 5,
+          "comment": "Quite oil wife discover little."
+        },
+        {
+          "user": "Donna Johnston",
+          "stars": 5,
+          "comment": "Weight standard into."
+        },
+        {
+          "user": "Brian Washington",
+          "stars": 5,
+          "comment": "Fast say mention."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-21",
+      "https://source.unsplash.com/800x600/?Redio-21"
+    ],
+    "variants": [
+      {
+        "id": "21a",
+        "color": "Fuchsia",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Redio-21-0"
+      },
+      {
+        "id": "21b",
+        "color": "PowderBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Redio-21-1"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Bidco Jiko Add",
+    "category": "Home & Kitchen",
+    "price": 19534,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "What stop hotel news that quality close. Available note series statement leader media. Could throughout part house area security. Positive most speech lawyer myself anyone. What democratic tonight ability.",
+    "rating": {
+      "average": 3.9,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Tammy Bowman",
+          "stars": 4,
+          "comment": "Sing goal easy bill water very."
+        },
+        {
+          "user": "Jodi Banks",
+          "stars": 2,
+          "comment": "Whose meeting something join enjoy finally."
+        },
+        {
+          "user": "Samantha Spears",
+          "stars": 4,
+          "comment": "Protect exist several."
+        },
+        {
+          "user": "Lorraine Acosta",
+          "stars": 2,
+          "comment": "Able right three so professor."
+        },
+        {
+          "user": "Sheri Williamson",
+          "stars": 1,
+          "comment": "Thousand consumer former road fine material enough."
+        },
+        {
+          "user": "Eric Mcdaniel",
+          "stars": 3,
+          "comment": "Science fish hold range clearly it enter large."
+        },
+        {
+          "user": "Thomas Byrd",
+          "stars": 4,
+          "comment": "It get public."
+        },
+        {
+          "user": "Joseph Newton",
+          "stars": 3,
+          "comment": "Writer town film home toward."
+        },
+        {
+          "user": "Edward Osborne",
+          "stars": 4,
+          "comment": "Successful professional exist not second turn."
+        },
+        {
+          "user": "Katrina Powell",
+          "stars": 3,
+          "comment": "Morning color wide food boy happen."
+        },
+        {
+          "user": "Nicole Garcia",
+          "stars": 3,
+          "comment": "Recognize card cut manage."
+        },
+        {
+          "user": "Dylan Padilla",
+          "stars": 1,
+          "comment": "Hold despite by hot safe data attention speak."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-22",
+      "https://source.unsplash.com/800x600/?Jiko-22"
+    ],
+    "variants": [
+      {
+        "id": "22a",
+        "color": "DeepPink",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Jiko-22-0"
+      },
+      {
+        "id": "22b",
+        "color": "Turquoise",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Jiko-22-1"
+      },
+      {
+        "id": "22c",
+        "color": "Aquamarine",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Jiko-22-2"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Java House Kahawa On",
+    "category": "Groceries",
+    "price": 24235,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Summer charge almost four protect as add never. Let similar when and race nothing. Decide they option class red on each above.",
+    "rating": {
+      "average": 4.5,
+      "count": 10,
+      "reviews": [
+        {
+          "user": "Kristina Scott",
+          "stars": 3,
+          "comment": "Thing wind total increase."
+        },
+        {
+          "user": "Pamela Russell",
+          "stars": 4,
+          "comment": "Expert music involve chair growth commercial skin board."
+        },
+        {
+          "user": "Rachel Gonzales MD",
+          "stars": 5,
+          "comment": "Field put agency century management."
+        },
+        {
+          "user": "Lydia Johnson",
+          "stars": 4,
+          "comment": "Coach economic tough itself ask item less."
+        },
+        {
+          "user": "Brenda Perez",
+          "stars": 1,
+          "comment": "Recently training fire person western young."
+        },
+        {
+          "user": "Jason Hamilton",
+          "stars": 5,
+          "comment": "Officer morning role PM build kind."
+        },
+        {
+          "user": "Debbie Smith",
+          "stars": 1,
+          "comment": "Almost like film."
+        },
+        {
+          "user": "Tina Brown",
+          "stars": 5,
+          "comment": "Fill physical even pass bad."
+        },
+        {
+          "user": "Christine Lowe",
+          "stars": 1,
+          "comment": "Identify left deep more."
+        },
+        {
+          "user": "Renee Ramirez",
+          "stars": 1,
+          "comment": "Somebody spring will force need society among."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-23",
+      "https://source.unsplash.com/800x600/?Kahawa-23"
+    ],
+    "variants": [
+      {
+        "id": "23a",
+        "color": "FireBrick",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kahawa-23-0"
+      },
+      {
+        "id": "23b",
+        "color": "DodgerBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kahawa-23-1"
+      },
+      {
+        "id": "23c",
+        "color": "LightSteelBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kahawa-23-2"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Kiondo Rada School",
+    "category": "Electronics",
+    "price": 18016,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Seek some recognize respond unit charge. Accept truth office machine western hear one. Evidence enough history live off expert.",
+    "rating": {
+      "average": 4.9,
+      "count": 17,
+      "reviews": [
+        {
+          "user": "Gary Hernandez",
+          "stars": 1,
+          "comment": "Cut million morning blue."
+        },
+        {
+          "user": "Renee Ford",
+          "stars": 4,
+          "comment": "Certainly focus significant party."
+        },
+        {
+          "user": "Dustin Sanchez",
+          "stars": 4,
+          "comment": "Rather myself base born Mrs."
+        },
+        {
+          "user": "Kelly Valdez",
+          "stars": 3,
+          "comment": "Down color member power TV."
+        },
+        {
+          "user": "Rachel Ellis",
+          "stars": 3,
+          "comment": "Experience cold hospital player real be."
+        },
+        {
+          "user": "Alex Curry",
+          "stars": 2,
+          "comment": "Effect modern after star born."
+        },
+        {
+          "user": "Bruce Sharp",
+          "stars": 2,
+          "comment": "Partner recognize ahead according picture likely door."
+        },
+        {
+          "user": "Lynn Marsh",
+          "stars": 4,
+          "comment": "Store recently response others."
+        },
+        {
+          "user": "Samantha Adams",
+          "stars": 5,
+          "comment": "Such certain American hard growth."
+        },
+        {
+          "user": "Grace Calderon",
+          "stars": 5,
+          "comment": "Figure expert morning such skill memory."
+        },
+        {
+          "user": "Jake Holden",
+          "stars": 5,
+          "comment": "Beyond cell return attention."
+        },
+        {
+          "user": "Jill Coleman",
+          "stars": 4,
+          "comment": "National again lay last debate."
+        },
+        {
+          "user": "James Green",
+          "stars": 5,
+          "comment": "How voice course lawyer sing discover clear relate."
+        },
+        {
+          "user": "Joshua Watkins DVM",
+          "stars": 1,
+          "comment": "Newspaper hundred law true."
+        },
+        {
+          "user": "Whitney Cook",
+          "stars": 2,
+          "comment": "Would charge give environmental either."
+        },
+        {
+          "user": "Tyler Beard",
+          "stars": 4,
+          "comment": "Painting more often seat."
+        },
+        {
+          "user": "Edward West",
+          "stars": 2,
+          "comment": "Challenge offer happen hit painting action throw."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-24",
+      "https://source.unsplash.com/800x600/?Rada-24"
+    ],
+    "variants": [
+      {
+        "id": "24a",
+        "color": "OliveDrab",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Rada-24-0"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Nakumatt Sufuria Staff",
+    "category": "Home & Kitchen",
+    "price": 22587,
+    "currency": "KES",
+    "brand": "Dormans",
+    "description": "Check husband college require will. Seek poor white job yet each. Home support share up almost at there. Choose interest loss small determine term current argue.",
+    "rating": {
+      "average": 4.6,
+      "count": 16,
+      "reviews": [
+        {
+          "user": "David Harrington",
+          "stars": 2,
+          "comment": "Amount line happen standard above."
+        },
+        {
+          "user": "Garrett Ibarra",
+          "stars": 2,
+          "comment": "Clear power dog reflect page."
+        },
+        {
+          "user": "Christine Bennett",
+          "stars": 2,
+          "comment": "Law notice debate page beautiful."
+        },
+        {
+          "user": "Luis Garza",
+          "stars": 3,
+          "comment": "Hard himself but."
+        },
+        {
+          "user": "Ethan Strong",
+          "stars": 5,
+          "comment": "Half always use result high factor."
+        },
+        {
+          "user": "Thomas Harris",
+          "stars": 2,
+          "comment": "Card evidence for growth."
+        },
+        {
+          "user": "Joshua Price",
+          "stars": 4,
+          "comment": "Network together main play."
+        },
+        {
+          "user": "Dawn Howell",
+          "stars": 5,
+          "comment": "Drug ten future perhaps expect."
+        },
+        {
+          "user": "Tracy Hall",
+          "stars": 2,
+          "comment": "Program onto fly turn data run."
+        },
+        {
+          "user": "Katherine Bates",
+          "stars": 5,
+          "comment": "Day full example."
+        },
+        {
+          "user": "Hannah Oliver",
+          "stars": 1,
+          "comment": "Business across cold."
+        },
+        {
+          "user": "Veronica Howell",
+          "stars": 4,
+          "comment": "Decade arrive under not table tough."
+        },
+        {
+          "user": "Angela Stone",
+          "stars": 1,
+          "comment": "Him institution artist goal very art."
+        },
+        {
+          "user": "James Duncan",
+          "stars": 2,
+          "comment": "Special hit structure spring right."
+        },
+        {
+          "user": "Erik Baker",
+          "stars": 4,
+          "comment": "My writer will mouth either gas among."
+        },
+        {
+          "user": "Misty Valentine",
+          "stars": 5,
+          "comment": "Beyond owner center design."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-25",
+      "https://source.unsplash.com/800x600/?Sufuria-25"
+    ],
+    "variants": [
+      {
+        "id": "25a",
+        "color": "Ivory",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-25-0"
+      },
+      {
+        "id": "25b",
+        "color": "Gray",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-25-1"
+      },
+      {
+        "id": "25c",
+        "color": "LawnGreen",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-25-2"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Nakumatt Chai Medical",
+    "category": "Groceries",
+    "price": 20162,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Dark along above Mr everyone quickly character. Five talk space part improve relationship agreement community. Individual create carry couple big.",
+    "rating": {
+      "average": 4.2,
+      "count": 14,
+      "reviews": [
+        {
+          "user": "Robyn Garcia",
+          "stars": 2,
+          "comment": "Foot despite hear responsibility time choose."
+        },
+        {
+          "user": "Mr. Michael Edwards",
+          "stars": 3,
+          "comment": "Network generation note."
+        },
+        {
+          "user": "Mike Lester",
+          "stars": 4,
+          "comment": "Performance author per decide point bag result."
+        },
+        {
+          "user": "Douglas Lee",
+          "stars": 3,
+          "comment": "Professor baby with cut money."
+        },
+        {
+          "user": "Jeffrey Christian",
+          "stars": 3,
+          "comment": "Top billion world government west study police."
+        },
+        {
+          "user": "Michael Wilson",
+          "stars": 3,
+          "comment": "Would surface age from news budget watch without."
+        },
+        {
+          "user": "James Hernandez",
+          "stars": 1,
+          "comment": "Up the speak area."
+        },
+        {
+          "user": "Kevin Anderson",
+          "stars": 3,
+          "comment": "Suddenly window anything animal tree lay school."
+        },
+        {
+          "user": "Todd Lloyd",
+          "stars": 1,
+          "comment": "Require political its effect recognize drug move."
+        },
+        {
+          "user": "Christie Johnson",
+          "stars": 3,
+          "comment": "Population skill age wrong organization."
+        },
+        {
+          "user": "Nancy Robinson",
+          "stars": 3,
+          "comment": "All music month fast coach series away."
+        },
+        {
+          "user": "Christine Cook",
+          "stars": 2,
+          "comment": "Especially region model politics street try."
+        },
+        {
+          "user": "Angelica Vargas",
+          "stars": 5,
+          "comment": "Director future plant notice."
+        },
+        {
+          "user": "Amy Parker",
+          "stars": 5,
+          "comment": "Even the game drug road."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-26",
+      "https://source.unsplash.com/800x600/?Chai-26"
+    ],
+    "variants": [
+      {
+        "id": "26a",
+        "color": "MediumVioletRed",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Chai-26-0"
+      },
+      {
+        "id": "26b",
+        "color": "MediumSpringGreen",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Chai-26-1"
+      },
+      {
+        "id": "26c",
+        "color": "DarkSlateGray",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Chai-26-2"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Dormans Sufuria Nice",
+    "category": "Home & Kitchen",
+    "price": 7033,
+    "currency": "KES",
+    "brand": "Kiondo",
+    "description": "Court pay listen raise against bank course. Ground including interview large hit station these relate.",
+    "rating": {
+      "average": 3.6,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "William Lee DDS",
+          "stars": 4,
+          "comment": "Produce responsibility employee finish some glass five."
+        },
+        {
+          "user": "Seth Smith",
+          "stars": 5,
+          "comment": "Yet west such culture."
+        },
+        {
+          "user": "Lydia Chavez",
+          "stars": 1,
+          "comment": "Will art receive certain kid mean before."
+        },
+        {
+          "user": "Janet Caldwell",
+          "stars": 4,
+          "comment": "Law short husband however article."
+        },
+        {
+          "user": "Benjamin Pratt",
+          "stars": 3,
+          "comment": "Eat throw interview little forward per."
+        },
+        {
+          "user": "Daniel Burns",
+          "stars": 4,
+          "comment": "Join must picture to."
+        },
+        {
+          "user": "Samantha Shaffer",
+          "stars": 5,
+          "comment": "Administration measure especially benefit subject weight."
+        },
+        {
+          "user": "Kristin Mitchell",
+          "stars": 3,
+          "comment": "General whole statement."
+        },
+        {
+          "user": "Amanda Ryan",
+          "stars": 2,
+          "comment": "You record tough common not final."
+        },
+        {
+          "user": "Jennifer Barr",
+          "stars": 3,
+          "comment": "Have simple event service its."
+        },
+        {
+          "user": "Jacob Clark",
+          "stars": 4,
+          "comment": "Big least green character both common type."
+        },
+        {
+          "user": "Lisa Cox",
+          "stars": 2,
+          "comment": "Check provide Congress kitchen value."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-27",
+      "https://source.unsplash.com/800x600/?Sufuria-27"
+    ],
+    "variants": [
+      {
+        "id": "27a",
+        "color": "LightGray",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-27-0"
+      },
+      {
+        "id": "27b",
+        "color": "BlueViolet",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-27-1"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Bidco Viatu Station",
+    "category": "Fashion",
+    "price": 3350,
+    "currency": "KES",
+    "brand": "Kiondo",
+    "description": "Participant letter pull from reason look house. Help say government eye firm beautiful. Establish wonder again quite commercial federal.",
+    "rating": {
+      "average": 4.4,
+      "count": 6,
+      "reviews": [
+        {
+          "user": "Juan White",
+          "stars": 4,
+          "comment": "Age take alone both case far."
+        },
+        {
+          "user": "Kristen Garcia",
+          "stars": 2,
+          "comment": "Compare relationship stay certain."
+        },
+        {
+          "user": "Heather Whitney",
+          "stars": 5,
+          "comment": "Subject spring name majority quickly those beautiful."
+        },
+        {
+          "user": "David Brooks",
+          "stars": 2,
+          "comment": "Trade dream technology teacher technology various cover."
+        },
+        {
+          "user": "Rebecca Edwards",
+          "stars": 1,
+          "comment": "East story serve address blood forward when."
+        },
+        {
+          "user": "Frederick Robinson",
+          "stars": 1,
+          "comment": "Man grow drug."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-28",
+      "https://source.unsplash.com/800x600/?Viatu-28"
+    ],
+    "variants": [
+      {
+        "id": "28a",
+        "color": "Moccasin",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Viatu-28-0"
+      },
+      {
+        "id": "28b",
+        "color": "DarkSlateGray",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Viatu-28-1"
+      },
+      {
+        "id": "28c",
+        "color": "MediumAquaMarine",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Viatu-28-2"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dormans Sufuria Admit",
+    "category": "Home & Kitchen",
+    "price": 18593,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Fly network anyone small kid. Leave view participant current institution office hit game. Head watch sure article. Church nearly house sport spring improve.",
+    "rating": {
+      "average": 3.7,
+      "count": 20,
+      "reviews": [
+        {
+          "user": "Linda Steele",
+          "stars": 5,
+          "comment": "Character order marriage office."
+        },
+        {
+          "user": "Sally Smith",
+          "stars": 4,
+          "comment": "Unit where maybe entire positive then."
+        },
+        {
+          "user": "Joan Medina",
+          "stars": 1,
+          "comment": "Service thought draw president threat value fly material."
+        },
+        {
+          "user": "Elizabeth Booth",
+          "stars": 3,
+          "comment": "Issue such often call party I cost."
+        },
+        {
+          "user": "Stanley Evans",
+          "stars": 3,
+          "comment": "Paper as including reduce claim."
+        },
+        {
+          "user": "Brittany Oneill",
+          "stars": 4,
+          "comment": "Analysis his nice both commercial local."
+        },
+        {
+          "user": "Crystal Mosley",
+          "stars": 3,
+          "comment": "Prepare resource view establish under."
+        },
+        {
+          "user": "Elizabeth Rangel",
+          "stars": 3,
+          "comment": "Always make nor something determine."
+        },
+        {
+          "user": "Richard Wagner",
+          "stars": 1,
+          "comment": "Little specific manager future."
+        },
+        {
+          "user": "Angela Barrett",
+          "stars": 1,
+          "comment": "Throw crime specific tax concern."
+        },
+        {
+          "user": "Michelle Vincent PhD",
+          "stars": 5,
+          "comment": "Born that as among note industry cultural."
+        },
+        {
+          "user": "Raymond Miller",
+          "stars": 3,
+          "comment": "Message data stage court indicate financial."
+        },
+        {
+          "user": "Shelly Vargas",
+          "stars": 3,
+          "comment": "Thousand far woman care sing."
+        },
+        {
+          "user": "Adam Krause",
+          "stars": 4,
+          "comment": "Understand conference bad morning feeling."
+        },
+        {
+          "user": "Robert Kelley",
+          "stars": 3,
+          "comment": "Process model analysis see difficult firm five."
+        },
+        {
+          "user": "Mark Smith",
+          "stars": 2,
+          "comment": "Expert note various Republican."
+        },
+        {
+          "user": "Pamela Thompson",
+          "stars": 3,
+          "comment": "Force ok bill scene manager."
+        },
+        {
+          "user": "Hannah Stone",
+          "stars": 1,
+          "comment": "Democratic notice push life size huge edge."
+        },
+        {
+          "user": "Courtney Turner",
+          "stars": 5,
+          "comment": "Fear not west represent world share still else."
+        },
+        {
+          "user": "Mr. Steven Villanueva MD",
+          "stars": 2,
+          "comment": "The worry reduce."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-29",
+      "https://source.unsplash.com/800x600/?Sufuria-29"
+    ],
+    "variants": [
+      {
+        "id": "29a",
+        "color": "SteelBlue",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-29-0"
+      },
+      {
+        "id": "29b",
+        "color": "DarkCyan",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Sufuria-29-1"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Bidco Kofia Mention",
+    "category": "Fashion",
+    "price": 15388,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Per rule its main. Tonight form modern including since begin. Allow out method service. Fill door budget.",
+    "rating": {
+      "average": 4.3,
+      "count": 7,
+      "reviews": [
+        {
+          "user": "Aaron Johnson",
+          "stars": 5,
+          "comment": "Security what six enough."
+        },
+        {
+          "user": "Nancy Walton",
+          "stars": 3,
+          "comment": "Almost next only wish six response alone."
+        },
+        {
+          "user": "Joyce Owens",
+          "stars": 3,
+          "comment": "Suffer question improve ball else role listen."
+        },
+        {
+          "user": "Mr. Jeremy Acosta",
+          "stars": 1,
+          "comment": "One quickly student word conference later."
+        },
+        {
+          "user": "Matthew Moore",
+          "stars": 5,
+          "comment": "While beautiful challenge bad require notice effect."
+        },
+        {
+          "user": "Brittany Alexander",
+          "stars": 5,
+          "comment": "Certainly west senior down."
+        },
+        {
+          "user": "Bradley Rodriguez",
+          "stars": 1,
+          "comment": "Professional identify field ask."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-30",
+      "https://source.unsplash.com/800x600/?Kofia-30"
+    ],
+    "variants": [
+      {
+        "id": "30a",
+        "color": "GhostWhite",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kofia-30-0"
+      },
+      {
+        "id": "30b",
+        "color": "GoldenRod",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kofia-30-1"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Safaricom Kikombe Century",
+    "category": "Home & Kitchen",
+    "price": 2369,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Five why professional plant. Want discuss bad piece window. Number remain build rich. Along camera boy just society week factor help.",
+    "rating": {
+      "average": 4.6,
+      "count": 5,
+      "reviews": [
+        {
+          "user": "Lori Ortiz",
+          "stars": 4,
+          "comment": "Size amount though north."
+        },
+        {
+          "user": "Dawn Johnson",
+          "stars": 5,
+          "comment": "Such voice wrong evening child box."
+        },
+        {
+          "user": "Jason Costa",
+          "stars": 3,
+          "comment": "Season class find product."
+        },
+        {
+          "user": "Elizabeth Carter",
+          "stars": 2,
+          "comment": "Near country medical television write think."
+        },
+        {
+          "user": "Lindsey Ewing",
+          "stars": 1,
+          "comment": "Air population avoid anyone mean join like."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-31",
+      "https://source.unsplash.com/800x600/?Kikombe-31"
+    ],
+    "variants": [
+      {
+        "id": "31a",
+        "color": "SaddleBrown",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-31-0"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Bidco Kaniki Community",
+    "category": "Fashion",
+    "price": 27929,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Bar possible because she main nation suggest. Fish player financial ground boy general. Low Republican start campaign. Number ground second break beat.",
+    "rating": {
+      "average": 4.4,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Brian Lawson",
+          "stars": 4,
+          "comment": "Five ball example defense level remember teacher."
+        },
+        {
+          "user": "Caroline Kline",
+          "stars": 4,
+          "comment": "Industry color performance often."
+        },
+        {
+          "user": "Martha Ortega",
+          "stars": 2,
+          "comment": "Anything especially style hear light difference."
+        },
+        {
+          "user": "Denise Brown",
+          "stars": 4,
+          "comment": "Large letter market."
+        },
+        {
+          "user": "Melissa Zimmerman",
+          "stars": 2,
+          "comment": "Read offer marriage he."
+        },
+        {
+          "user": "James Payne",
+          "stars": 1,
+          "comment": "Agent artist century know big."
+        },
+        {
+          "user": "Christopher Burns II",
+          "stars": 4,
+          "comment": "From artist shoulder especially member seven."
+        },
+        {
+          "user": "Erik Robinson",
+          "stars": 1,
+          "comment": "Late place once police point."
+        },
+        {
+          "user": "Brandon Jones",
+          "stars": 3,
+          "comment": "East office executive if."
+        },
+        {
+          "user": "Samantha Hart",
+          "stars": 2,
+          "comment": "Style career debate must south."
+        },
+        {
+          "user": "Carol Shaw",
+          "stars": 2,
+          "comment": "Free to early bit Mr cell."
+        },
+        {
+          "user": "Donald Warren",
+          "stars": 1,
+          "comment": "Fill I tax training."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-32",
+      "https://source.unsplash.com/800x600/?Kaniki-32"
+    ],
+    "variants": [
+      {
+        "id": "32a",
+        "color": "NavajoWhite",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-32-0"
+      },
+      {
+        "id": "32b",
+        "color": "LightSlateGray",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-32-1"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nakumatt Chai Along",
+    "category": "Groceries",
+    "price": 6058,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Though popular scene involve piece well. Ball democratic action officer. Explain arrive page really establish. Before able reveal kind name realize.",
+    "rating": {
+      "average": 4.5,
+      "count": 17,
+      "reviews": [
+        {
+          "user": "Gerald Lee",
+          "stars": 3,
+          "comment": "Event animal market political according represent life."
+        },
+        {
+          "user": "Joshua Garcia",
+          "stars": 4,
+          "comment": "Room senior focus probably."
+        },
+        {
+          "user": "Timothy Singleton",
+          "stars": 2,
+          "comment": "Great season various."
+        },
+        {
+          "user": "Melissa Wood",
+          "stars": 5,
+          "comment": "Reveal citizen catch professional it."
+        },
+        {
+          "user": "Alexander Hull",
+          "stars": 5,
+          "comment": "Old everything name culture."
+        },
+        {
+          "user": "Jennifer Sawyer",
+          "stars": 4,
+          "comment": "Chair door per air although fly station."
+        },
+        {
+          "user": "Brad Vasquez",
+          "stars": 3,
+          "comment": "Learn personal indicate."
+        },
+        {
+          "user": "Kimberly Brown",
+          "stars": 3,
+          "comment": "Toward determine more."
+        },
+        {
+          "user": "Kyle Dodson",
+          "stars": 2,
+          "comment": "Effect along movement risk too lead size."
+        },
+        {
+          "user": "Justin Brown",
+          "stars": 4,
+          "comment": "Mouth best until board send different."
+        },
+        {
+          "user": "Crystal Mccoy",
+          "stars": 3,
+          "comment": "Force race mind chance spend eat now."
+        },
+        {
+          "user": "Danielle Harding",
+          "stars": 2,
+          "comment": "Front shake top have."
+        },
+        {
+          "user": "Jessica Herrera",
+          "stars": 5,
+          "comment": "Low plant almost local."
+        },
+        {
+          "user": "Sara Wilson",
+          "stars": 1,
+          "comment": "Feeling very trouble civil population get be evening."
+        },
+        {
+          "user": "April Davis",
+          "stars": 5,
+          "comment": "Indeed he sense send."
+        },
+        {
+          "user": "Stacie Lee",
+          "stars": 3,
+          "comment": "Meet party hear floor conference."
+        },
+        {
+          "user": "Scott Lynch DDS",
+          "stars": 2,
+          "comment": "Similar movie rule."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-33",
+      "https://source.unsplash.com/800x600/?Chai-33"
+    ],
+    "variants": [
+      {
+        "id": "33a",
+        "color": "PowderBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Chai-33-0"
+      },
+      {
+        "id": "33b",
+        "color": "Khaki",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Chai-33-1"
+      },
+      {
+        "id": "33c",
+        "color": "Yellow",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Chai-33-2"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Nakumatt Simu Call",
+    "category": "Electronics",
+    "price": 21140,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Site along western between issue lot leader arrive. Wind study win left. Seem firm major book catch authority. Step over everybody though talk happen work suddenly. Administration executive nation pick energy.",
+    "rating": {
+      "average": 4.8,
+      "count": 13,
+      "reviews": [
+        {
+          "user": "Kenneth Wheeler",
+          "stars": 2,
+          "comment": "Idea analysis much knowledge provide eat dark several."
+        },
+        {
+          "user": "Karina Jordan",
+          "stars": 4,
+          "comment": "Administration dark fine daughter direction."
+        },
+        {
+          "user": "Terry Owens",
+          "stars": 4,
+          "comment": "Difference president explain commercial finally."
+        },
+        {
+          "user": "Matthew Cruz",
+          "stars": 3,
+          "comment": "Cold dog agency political perhaps stop."
+        },
+        {
+          "user": "Angie Grant",
+          "stars": 5,
+          "comment": "Year realize affect rest this."
+        },
+        {
+          "user": "Thomas Rivas",
+          "stars": 2,
+          "comment": "Country idea look decision defense likely appear."
+        },
+        {
+          "user": "Natalie Oliver",
+          "stars": 4,
+          "comment": "General make well stop politics grow method."
+        },
+        {
+          "user": "Natalie Gray",
+          "stars": 5,
+          "comment": "Them teach less executive close anything simple."
+        },
+        {
+          "user": "Dawn Steele",
+          "stars": 4,
+          "comment": "His according and."
+        },
+        {
+          "user": "Daniel Case",
+          "stars": 3,
+          "comment": "Someone third pick leader middle movement decision."
+        },
+        {
+          "user": "Brandon Moss",
+          "stars": 5,
+          "comment": "Nothing very lay respond do."
+        },
+        {
+          "user": "Lucas White",
+          "stars": 2,
+          "comment": "Remain seek out though stay school."
+        },
+        {
+          "user": "Faith Brown",
+          "stars": 1,
+          "comment": "Edge should future."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-34",
+      "https://source.unsplash.com/800x600/?Simu-34"
+    ],
+    "variants": [
+      {
+        "id": "34a",
+        "color": "Red",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Simu-34-0"
+      },
+      {
+        "id": "34b",
+        "color": "ForestGreen",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Simu-34-1"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Nakumatt Shanga Off",
+    "category": "Fashion",
+    "price": 2149,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Support she successful. Perhaps understand day while wrong small. Easy hotel loss. Very sort yet work ready pick affect.",
+    "rating": {
+      "average": 4.3,
+      "count": 6,
+      "reviews": [
+        {
+          "user": "Gregory Jones",
+          "stars": 4,
+          "comment": "Several school support draw lawyer."
+        },
+        {
+          "user": "Mary Hamilton",
+          "stars": 1,
+          "comment": "Choice family Mrs school even light."
+        },
+        {
+          "user": "Jessica Gray",
+          "stars": 3,
+          "comment": "Over let activity base."
+        },
+        {
+          "user": "Lindsay Pace",
+          "stars": 1,
+          "comment": "Whole activity a put stand."
+        },
+        {
+          "user": "Lisa Roberts",
+          "stars": 4,
+          "comment": "Ball may between public effort leave."
+        },
+        {
+          "user": "Mr. Tyler Stark",
+          "stars": 1,
+          "comment": "Follow away carry rather above market."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-35",
+      "https://source.unsplash.com/800x600/?Shanga-35"
+    ],
+    "variants": [
+      {
+        "id": "35a",
+        "color": "WhiteSmoke",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Shanga-35-0"
+      },
+      {
+        "id": "35b",
+        "color": "AliceBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Shanga-35-1"
+      },
+      {
+        "id": "35c",
+        "color": "White",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Shanga-35-2"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Nakumatt Kikombe Score",
+    "category": "Home & Kitchen",
+    "price": 14273,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Natural training soon practice reveal moment. In each capital clearly later drive. Until official government study.",
+    "rating": {
+      "average": 4.6,
+      "count": 8,
+      "reviews": [
+        {
+          "user": "Oscar Anderson",
+          "stars": 3,
+          "comment": "Could money all test process his owner."
+        },
+        {
+          "user": "Daniel Boyd",
+          "stars": 5,
+          "comment": "Research program sound next product senior century."
+        },
+        {
+          "user": "Thomas Solis II",
+          "stars": 4,
+          "comment": "Physical concern notice time note."
+        },
+        {
+          "user": "Patrick Evans",
+          "stars": 1,
+          "comment": "Edge old majority current report billion."
+        },
+        {
+          "user": "Richard Ortiz",
+          "stars": 3,
+          "comment": "Born several single like trial go audience wear."
+        },
+        {
+          "user": "Mrs. Brenda Nelson",
+          "stars": 1,
+          "comment": "By sure set outside."
+        },
+        {
+          "user": "Sarah Carson",
+          "stars": 1,
+          "comment": "Onto seven likely deal forget area certain."
+        },
+        {
+          "user": "Jessica Carter",
+          "stars": 3,
+          "comment": "Player bit democratic now."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-36",
+      "https://source.unsplash.com/800x600/?Kikombe-36"
+    ],
+    "variants": [
+      {
+        "id": "36a",
+        "color": "Peru",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-36-0"
+      },
+      {
+        "id": "36b",
+        "color": "PapayaWhip",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-36-1"
+      },
+      {
+        "id": "36c",
+        "color": "PowderBlue",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-36-2"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Dormans Kikombe Nearly",
+    "category": "Home & Kitchen",
+    "price": 18340,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Hundred picture special ten anyone throw. Specific writer discuss process role down.",
+    "rating": {
+      "average": 4.3,
+      "count": 16,
+      "reviews": [
+        {
+          "user": "Jessica Campbell",
+          "stars": 2,
+          "comment": "Sense information include old region month talk."
+        },
+        {
+          "user": "Stephanie Mendoza",
+          "stars": 3,
+          "comment": "Test finally new staff street."
+        },
+        {
+          "user": "Mary Wood",
+          "stars": 2,
+          "comment": "Grow low have several pattern feeling."
+        },
+        {
+          "user": "Andrea Gibson",
+          "stars": 4,
+          "comment": "Unit old series result."
+        },
+        {
+          "user": "Alicia Preston",
+          "stars": 1,
+          "comment": "Authority less bit various area."
+        },
+        {
+          "user": "Anne Evans",
+          "stars": 1,
+          "comment": "Day offer wait one into necessary particularly."
+        },
+        {
+          "user": "Tiffany Davis",
+          "stars": 3,
+          "comment": "After easy weight full."
+        },
+        {
+          "user": "Karen Baker",
+          "stars": 2,
+          "comment": "Speech nature run work."
+        },
+        {
+          "user": "Michael Lowe",
+          "stars": 3,
+          "comment": "Admit despite plant TV either."
+        },
+        {
+          "user": "Joseph Mccormick",
+          "stars": 4,
+          "comment": "Sign include table poor end every."
+        },
+        {
+          "user": "Melvin Anderson",
+          "stars": 4,
+          "comment": "Unit case would."
+        },
+        {
+          "user": "Jill Goodwin",
+          "stars": 2,
+          "comment": "Best year choice."
+        },
+        {
+          "user": "Chase Brown",
+          "stars": 1,
+          "comment": "Enjoy body remain security."
+        },
+        {
+          "user": "Brenda Shepherd",
+          "stars": 4,
+          "comment": "White main during produce there in window professional."
+        },
+        {
+          "user": "Guy Powell",
+          "stars": 2,
+          "comment": "Ago see with today."
+        },
+        {
+          "user": "Troy Anderson",
+          "stars": 1,
+          "comment": "Blue night fund."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-37",
+      "https://source.unsplash.com/800x600/?Kikombe-37"
+    ],
+    "variants": [
+      {
+        "id": "37a",
+        "color": "MidnightBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-37-0"
+      },
+      {
+        "id": "37b",
+        "color": "MintCream",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kikombe-37-1"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Nakumatt Kaniki Stock",
+    "category": "Fashion",
+    "price": 20842,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Remain through oil difference stay size. Once scientist most born care. Once entire support between prevent government. Nice wife get build me increase.",
+    "rating": {
+      "average": 4.3,
+      "count": 5,
+      "reviews": [
+        {
+          "user": "Gabrielle Davies",
+          "stars": 4,
+          "comment": "Simply least laugh south recognize."
+        },
+        {
+          "user": "Gregory Rodriguez",
+          "stars": 4,
+          "comment": "Mind deep wife sit realize office."
+        },
+        {
+          "user": "Michael Garcia",
+          "stars": 3,
+          "comment": "Claim force much surface good."
+        },
+        {
+          "user": "Laura Wang",
+          "stars": 4,
+          "comment": "Up political trial just."
+        },
+        {
+          "user": "Brian Price",
+          "stars": 2,
+          "comment": "Then develop that during reason picture lose."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-38",
+      "https://source.unsplash.com/800x600/?Kaniki-38"
+    ],
+    "variants": [
+      {
+        "id": "38a",
+        "color": "Lavender",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-38-0"
+      },
+      {
+        "id": "38b",
+        "color": "Chocolate",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-38-1"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Nakumatt Kaniki Probably",
+    "category": "Fashion",
+    "price": 12504,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "The far wonder contain low leg. Everybody off standard cause clearly knowledge. Clear heart return one.",
+    "rating": {
+      "average": 4.4,
+      "count": 6,
+      "reviews": [
+        {
+          "user": "Michael Murray",
+          "stars": 5,
+          "comment": "Week particular position writer."
+        },
+        {
+          "user": "Ricky Young",
+          "stars": 2,
+          "comment": "End picture four manager home wait either."
+        },
+        {
+          "user": "Debra Anderson",
+          "stars": 2,
+          "comment": "Oil learn form our tax several."
+        },
+        {
+          "user": "Jonathan Cline",
+          "stars": 4,
+          "comment": "Arrive magazine teach community week language among."
+        },
+        {
+          "user": "Mike Davidson",
+          "stars": 4,
+          "comment": "Stuff young these less feeling green."
+        },
+        {
+          "user": "Emily Newman",
+          "stars": 1,
+          "comment": "South vote talk information note."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-39",
+      "https://source.unsplash.com/800x600/?Kaniki-39"
+    ],
+    "variants": [
+      {
+        "id": "39a",
+        "color": "Chocolate",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-39-0"
+      },
+      {
+        "id": "39b",
+        "color": "Chartreuse",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-39-1"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Safaricom Mkate Seven",
+    "category": "Groceries",
+    "price": 19277,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Although item speech. Song skill man music test then. Behavior part still option like job. Security different shoulder weight.",
+    "rating": {
+      "average": 4.3,
+      "count": 8,
+      "reviews": [
+        {
+          "user": "Jeremy Lewis",
+          "stars": 2,
+          "comment": "Others agree water point opportunity low low."
+        },
+        {
+          "user": "Mark Jackson",
+          "stars": 5,
+          "comment": "Impact raise agree recently."
+        },
+        {
+          "user": "Chase Kelley",
+          "stars": 1,
+          "comment": "Young beautiful a create suddenly really its."
+        },
+        {
+          "user": "Mrs. Chelsea Mckinney MD",
+          "stars": 3,
+          "comment": "Detail herself happy yeah."
+        },
+        {
+          "user": "Shelley Jensen DVM",
+          "stars": 1,
+          "comment": "Which candidate party from air yes."
+        },
+        {
+          "user": "Scott Galvan",
+          "stars": 5,
+          "comment": "Maybe speak heart group."
+        },
+        {
+          "user": "Troy Smith",
+          "stars": 5,
+          "comment": "Late item product from approach unit agent."
+        },
+        {
+          "user": "Lisa Myers",
+          "stars": 3,
+          "comment": "Office with check out when recently somebody upon."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-40",
+      "https://source.unsplash.com/800x600/?Mkate-40"
+    ],
+    "variants": [
+      {
+        "id": "40a",
+        "color": "PowderBlue",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Mkate-40-0"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Brookside Laptop Cultural",
+    "category": "Electronics",
+    "price": 15133,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Why evidence chance computer career team. Wind happy within. Of property brother world.",
+    "rating": {
+      "average": 3.7,
+      "count": 18,
+      "reviews": [
+        {
+          "user": "Melissa Williams",
+          "stars": 5,
+          "comment": "Expect summer perhaps onto member off relationship."
+        },
+        {
+          "user": "Colleen Griffin",
+          "stars": 5,
+          "comment": "Central center environmental economic great hair so."
+        },
+        {
+          "user": "Courtney Davila DDS",
+          "stars": 3,
+          "comment": "Identify then wind opportunity already town."
+        },
+        {
+          "user": "Audrey Harvey",
+          "stars": 3,
+          "comment": "Organization clearly meet sea."
+        },
+        {
+          "user": "Raymond Lewis",
+          "stars": 1,
+          "comment": "Travel politics group protect set."
+        },
+        {
+          "user": "Mark Frank",
+          "stars": 1,
+          "comment": "Model gun report meet."
+        },
+        {
+          "user": "Ashley Stout",
+          "stars": 1,
+          "comment": "Child head operation husband ask."
+        },
+        {
+          "user": "John Simpson",
+          "stars": 3,
+          "comment": "Military goal stuff what claim."
+        },
+        {
+          "user": "Lori Henderson",
+          "stars": 4,
+          "comment": "Authority company respond send available."
+        },
+        {
+          "user": "Ashley Parker",
+          "stars": 5,
+          "comment": "Sure over together soldier still center foreign."
+        },
+        {
+          "user": "Katie Scott",
+          "stars": 5,
+          "comment": "Follow remember cover early citizen kid."
+        },
+        {
+          "user": "Rick Brennan",
+          "stars": 1,
+          "comment": "Director will third reveal close organization."
+        },
+        {
+          "user": "Brittany Castro",
+          "stars": 5,
+          "comment": "Finish woman seek card project surface service."
+        },
+        {
+          "user": "George Curry",
+          "stars": 5,
+          "comment": "Family sister measure find."
+        },
+        {
+          "user": "Steven Williams",
+          "stars": 2,
+          "comment": "Power us bed window."
+        },
+        {
+          "user": "Felicia Gould",
+          "stars": 4,
+          "comment": "Than performance growth talk."
+        },
+        {
+          "user": "Nicholas Meyer",
+          "stars": 2,
+          "comment": "Bank task first describe manager letter."
+        },
+        {
+          "user": "Dakota Cuevas",
+          "stars": 2,
+          "comment": "Mind decide onto fund."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-41",
+      "https://source.unsplash.com/800x600/?Laptop-41"
+    ],
+    "variants": [
+      {
+        "id": "41a",
+        "color": "LemonChiffon",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Laptop-41-0"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Nakumatt Kaniki Have",
+    "category": "Fashion",
+    "price": 21123,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Sing partner television key. Director window level. Many step certainly work.",
+    "rating": {
+      "average": 4.5,
+      "count": 10,
+      "reviews": [
+        {
+          "user": "Matthew Anderson",
+          "stars": 1,
+          "comment": "Boy cell program room decide positive wrong administration."
+        },
+        {
+          "user": "Joshua Moore",
+          "stars": 2,
+          "comment": "Actually future meet term."
+        },
+        {
+          "user": "Karen Garner",
+          "stars": 2,
+          "comment": "Concern worker some huge toward follow."
+        },
+        {
+          "user": "Timothy Wilkerson",
+          "stars": 5,
+          "comment": "Myself law growth instead eat decision cell."
+        },
+        {
+          "user": "Frank Russo",
+          "stars": 5,
+          "comment": "Evidence wife me show right."
+        },
+        {
+          "user": "John Campos",
+          "stars": 1,
+          "comment": "Stand section improve range cultural nothing bill."
+        },
+        {
+          "user": "Christopher Clark",
+          "stars": 2,
+          "comment": "Security everyone investment pressure stand tough able these."
+        },
+        {
+          "user": "Mr. Elijah Oconnor",
+          "stars": 4,
+          "comment": "Entire yet it try continue Democrat."
+        },
+        {
+          "user": "Emily Mccormick",
+          "stars": 1,
+          "comment": "Best student purpose leg interesting."
+        },
+        {
+          "user": "Chad Lloyd",
+          "stars": 3,
+          "comment": "Traditional still these show sometimes."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-42",
+      "https://source.unsplash.com/800x600/?Kaniki-42"
+    ],
+    "variants": [
+      {
+        "id": "42a",
+        "color": "Red",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-42-0"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Nakumatt Jiko Young",
+    "category": "Home & Kitchen",
+    "price": 26399,
+    "currency": "KES",
+    "brand": "Brookside",
+    "description": "Without material region environment name stay. Control return instead though of. Plan lawyer bed hope political.",
+    "rating": {
+      "average": 3.9,
+      "count": 19,
+      "reviews": [
+        {
+          "user": "Samantha Morgan",
+          "stars": 2,
+          "comment": "Father anything enjoy report against share hundred."
+        },
+        {
+          "user": "Joe Carter",
+          "stars": 5,
+          "comment": "Size drive manage tax window."
+        },
+        {
+          "user": "Carlos Rodriguez",
+          "stars": 4,
+          "comment": "Article money may thus community national understand."
+        },
+        {
+          "user": "Cynthia Davies",
+          "stars": 5,
+          "comment": "Language appear laugh pressure miss election material."
+        },
+        {
+          "user": "Sarah Walker",
+          "stars": 2,
+          "comment": "Order artist listen agree personal television security leave."
+        },
+        {
+          "user": "Michael Martinez",
+          "stars": 5,
+          "comment": "Local probably let cut executive new action set."
+        },
+        {
+          "user": "Caleb Carroll",
+          "stars": 4,
+          "comment": "Worker break cost."
+        },
+        {
+          "user": "Katherine Pitts",
+          "stars": 3,
+          "comment": "Rock establish case ever service meet big."
+        },
+        {
+          "user": "Richard Wood",
+          "stars": 1,
+          "comment": "History enter office example administration piece."
+        },
+        {
+          "user": "Jason Mcdowell",
+          "stars": 4,
+          "comment": "His finally else set should us century."
+        },
+        {
+          "user": "Dana Garcia",
+          "stars": 3,
+          "comment": "Business new occur for student."
+        },
+        {
+          "user": "Melanie Cole",
+          "stars": 3,
+          "comment": "Cultural sport interview health laugh become seem because."
+        },
+        {
+          "user": "Peter Scott",
+          "stars": 2,
+          "comment": "Particularly fine follow system industry."
+        },
+        {
+          "user": "Dustin Bowen",
+          "stars": 5,
+          "comment": "Area music accept lose."
+        },
+        {
+          "user": "Sarah Nielsen",
+          "stars": 2,
+          "comment": "Beautiful important likely information paper ground."
+        },
+        {
+          "user": "Bob Lopez",
+          "stars": 5,
+          "comment": "Floor choose would benefit."
+        },
+        {
+          "user": "Cameron Alvarado",
+          "stars": 5,
+          "comment": "Individual professor lead against notice."
+        },
+        {
+          "user": "Nichole Walker",
+          "stars": 4,
+          "comment": "Financial million while national suddenly."
+        },
+        {
+          "user": "Beth Ramirez",
+          "stars": 5,
+          "comment": "Four rather guess whatever so enter."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-43",
+      "https://source.unsplash.com/800x600/?Jiko-43"
+    ],
+    "variants": [
+      {
+        "id": "43a",
+        "color": "Thistle",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Jiko-43-0"
+      },
+      {
+        "id": "43b",
+        "color": "Navy",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Jiko-43-1"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Nakumatt Laptop According",
+    "category": "Electronics",
+    "price": 26543,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Dream win meeting newspaper history manage. Father cold store. Many decade couple also.",
+    "rating": {
+      "average": 4.0,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Kyle Hawkins",
+          "stars": 3,
+          "comment": "National put strong possible another bad body."
+        },
+        {
+          "user": "Anita Fuentes",
+          "stars": 1,
+          "comment": "Key approach product."
+        },
+        {
+          "user": "Jennifer Scott",
+          "stars": 3,
+          "comment": "Around kitchen too nor political especially plan inside."
+        },
+        {
+          "user": "Christina Vargas",
+          "stars": 5,
+          "comment": "Could improve improve friend."
+        },
+        {
+          "user": "Robert Hughes",
+          "stars": 3,
+          "comment": "Ability new which business join perform relationship."
+        },
+        {
+          "user": "Marc Martin",
+          "stars": 3,
+          "comment": "Than small big on challenge."
+        },
+        {
+          "user": "Marcus Duffy",
+          "stars": 5,
+          "comment": "Analysis customer far TV other boy."
+        },
+        {
+          "user": "Victoria Johnson",
+          "stars": 4,
+          "comment": "Successful business surface a court win me."
+        },
+        {
+          "user": "Nicole Henderson",
+          "stars": 3,
+          "comment": "Itself news summer record."
+        },
+        {
+          "user": "Holly Johnson",
+          "stars": 1,
+          "comment": "Business fill evidence number according people various."
+        },
+        {
+          "user": "Eric Leonard",
+          "stars": 3,
+          "comment": "Commercial difference ground bag cultural."
+        },
+        {
+          "user": "Morgan Castillo",
+          "stars": 4,
+          "comment": "Energy stay measure image society decision you."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-44",
+      "https://source.unsplash.com/800x600/?Laptop-44"
+    ],
+    "variants": [
+      {
+        "id": "44a",
+        "color": "HotPink",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Laptop-44-0"
+      },
+      {
+        "id": "44b",
+        "color": "Magenta",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Laptop-44-1"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bidco Kaniki Western",
+    "category": "Fashion",
+    "price": 20050,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Child range know above. That name however lot. Perform analysis new blue.",
+    "rating": {
+      "average": 3.9,
+      "count": 13,
+      "reviews": [
+        {
+          "user": "Karen Johnson",
+          "stars": 3,
+          "comment": "Present candidate production behavior ever."
+        },
+        {
+          "user": "Caroline Hernandez",
+          "stars": 4,
+          "comment": "Production Mr opportunity big soldier meeting."
+        },
+        {
+          "user": "Paul Torres",
+          "stars": 1,
+          "comment": "Catch cost describe popular save seat economy."
+        },
+        {
+          "user": "Anthony Smith",
+          "stars": 3,
+          "comment": "There difference simple entire way lose event."
+        },
+        {
+          "user": "Amanda English",
+          "stars": 5,
+          "comment": "Describe man perform."
+        },
+        {
+          "user": "Danielle Fitzgerald",
+          "stars": 1,
+          "comment": "Summer feeling no carry."
+        },
+        {
+          "user": "Matthew Rice",
+          "stars": 1,
+          "comment": "Congress half officer environment enter speech let."
+        },
+        {
+          "user": "Gabriella Pham",
+          "stars": 4,
+          "comment": "Include south sort."
+        },
+        {
+          "user": "Tamara James",
+          "stars": 4,
+          "comment": "Measure really trouble purpose seven."
+        },
+        {
+          "user": "Timothy Dyer",
+          "stars": 1,
+          "comment": "Understand may life whose note whatever."
+        },
+        {
+          "user": "Mark Hamilton",
+          "stars": 1,
+          "comment": "Society change stop."
+        },
+        {
+          "user": "Daniel Yu",
+          "stars": 2,
+          "comment": "Hear most reality fly."
+        },
+        {
+          "user": "Gregory Brown",
+          "stars": 1,
+          "comment": "Experience thought feeling water industry result on."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Fashion-45",
+      "https://source.unsplash.com/800x600/?Kaniki-45"
+    ],
+    "variants": [
+      {
+        "id": "45a",
+        "color": "LightGoldenRodYellow",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-45-0"
+      },
+      {
+        "id": "45b",
+        "color": "FireBrick",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-45-1"
+      },
+      {
+        "id": "45c",
+        "color": "Khaki",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Kaniki-45-2"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Java House Chai Some",
+    "category": "Groceries",
+    "price": 8472,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Security soldier follow campaign both school college. In it value gas them health. Race bank deal continue interesting reduce. Community hit order walk speech case. Onto soon adult discuss writer.",
+    "rating": {
+      "average": 4.6,
+      "count": 12,
+      "reviews": [
+        {
+          "user": "Timothy Martin",
+          "stars": 4,
+          "comment": "Five position machine close open."
+        },
+        {
+          "user": "Chelsea Hall",
+          "stars": 3,
+          "comment": "Institution fish budget task attack near."
+        },
+        {
+          "user": "Christina Neal",
+          "stars": 5,
+          "comment": "Pick account energy personal century."
+        },
+        {
+          "user": "Christopher Mcneil",
+          "stars": 1,
+          "comment": "Mouth foreign wonder back sport board cold remain."
+        },
+        {
+          "user": "Elijah Hernandez",
+          "stars": 1,
+          "comment": "Follow least hope while quite dream."
+        },
+        {
+          "user": "Kevin Diaz",
+          "stars": 5,
+          "comment": "Win keep crime hope build quickly."
+        },
+        {
+          "user": "Audrey Marshall",
+          "stars": 2,
+          "comment": "Sort always later try."
+        },
+        {
+          "user": "Amy Massey",
+          "stars": 3,
+          "comment": "Oil floor later fact phone hit professional those."
+        },
+        {
+          "user": "Natalie Watts",
+          "stars": 2,
+          "comment": "Security fish buy improve same bit you."
+        },
+        {
+          "user": "Allen Flores",
+          "stars": 2,
+          "comment": "After song color."
+        },
+        {
+          "user": "Wesley Wheeler",
+          "stars": 5,
+          "comment": "Me cell dog."
+        },
+        {
+          "user": "Stephanie Mills",
+          "stars": 4,
+          "comment": "Send enough yourself product."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-46",
+      "https://source.unsplash.com/800x600/?Chai-46"
+    ],
+    "variants": [
+      {
+        "id": "46a",
+        "color": "Aquamarine",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Chai-46-0"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Dormans Bati Letter",
+    "category": "Home & Kitchen",
+    "price": 15475,
+    "currency": "KES",
+    "brand": "Safaricom",
+    "description": "Democrat federal pick anyone yourself. Happy past some such factor number sure. Fine true world strategy among. Care little boy understand receive most. System foreign democratic son drop important.",
+    "rating": {
+      "average": 4.9,
+      "count": 20,
+      "reviews": [
+        {
+          "user": "Ian Gray",
+          "stars": 3,
+          "comment": "Health concern bag TV."
+        },
+        {
+          "user": "Melissa Bradley",
+          "stars": 2,
+          "comment": "Amount least notice term."
+        },
+        {
+          "user": "Laura Norton",
+          "stars": 5,
+          "comment": "Our bed score piece beyond purpose may."
+        },
+        {
+          "user": "Nathaniel Boyer",
+          "stars": 4,
+          "comment": "Into book account professor see."
+        },
+        {
+          "user": "Amy Sherman",
+          "stars": 3,
+          "comment": "Whom protect ability red similar someone table."
+        },
+        {
+          "user": "James Lynch",
+          "stars": 1,
+          "comment": "Method former evidence adult."
+        },
+        {
+          "user": "Shawn Martin",
+          "stars": 5,
+          "comment": "Remain example start price positive morning."
+        },
+        {
+          "user": "Gail Wong",
+          "stars": 3,
+          "comment": "Guess painting local piece."
+        },
+        {
+          "user": "Ricardo Sherman",
+          "stars": 1,
+          "comment": "Final those specific including."
+        },
+        {
+          "user": "Rebecca David",
+          "stars": 1,
+          "comment": "Responsibility lot blood wonder full drug."
+        },
+        {
+          "user": "Michael Sosa",
+          "stars": 4,
+          "comment": "Range ahead join."
+        },
+        {
+          "user": "Curtis Moore",
+          "stars": 5,
+          "comment": "Author bit through experience they single."
+        },
+        {
+          "user": "Danielle Shields",
+          "stars": 2,
+          "comment": "Blood ask political."
+        },
+        {
+          "user": "Mrs. Judith Villarreal",
+          "stars": 3,
+          "comment": "Red discuss best charge seek."
+        },
+        {
+          "user": "Monica White",
+          "stars": 2,
+          "comment": "Spring often interest report whatever article."
+        },
+        {
+          "user": "Julia Brooks",
+          "stars": 2,
+          "comment": "Back down nature attack."
+        },
+        {
+          "user": "Crystal Rowland",
+          "stars": 3,
+          "comment": "Term off majority standard least weight none."
+        },
+        {
+          "user": "Jennifer Mcdaniel",
+          "stars": 4,
+          "comment": "Heart director within former think despite."
+        },
+        {
+          "user": "Tricia Baker",
+          "stars": 4,
+          "comment": "List feeling good western program responsibility though."
+        },
+        {
+          "user": "Tiffany Morton",
+          "stars": 1,
+          "comment": "Go building blue beat account."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-47",
+      "https://source.unsplash.com/800x600/?Bati-47"
+    ],
+    "variants": [
+      {
+        "id": "47a",
+        "color": "White",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Bati-47-0"
+      },
+      {
+        "id": "47b",
+        "color": "NavajoWhite",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Bati-47-1"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Brookside Rada Seven",
+    "category": "Electronics",
+    "price": 12060,
+    "currency": "KES",
+    "brand": "Nakumatt",
+    "description": "Way guy news American worker easy start. Ask tree available all night think. Of speech oil wait.",
+    "rating": {
+      "average": 4.0,
+      "count": 9,
+      "reviews": [
+        {
+          "user": "Michael Torres",
+          "stars": 3,
+          "comment": "Each hundred continue bed defense."
+        },
+        {
+          "user": "Justin Johnston",
+          "stars": 1,
+          "comment": "Discover be everybody bank bad our tax."
+        },
+        {
+          "user": "Abigail Anthony",
+          "stars": 1,
+          "comment": "Away so wonder thank."
+        },
+        {
+          "user": "Elizabeth Nolan",
+          "stars": 5,
+          "comment": "Power reach rich section."
+        },
+        {
+          "user": "Beth Hall",
+          "stars": 5,
+          "comment": "Degree order data east."
+        },
+        {
+          "user": "Tina Golden",
+          "stars": 1,
+          "comment": "Degree me several someone know."
+        },
+        {
+          "user": "Kevin Irwin",
+          "stars": 4,
+          "comment": "Support yes person rise decade either."
+        },
+        {
+          "user": "Jessica Johnston",
+          "stars": 1,
+          "comment": "Indeed their use history similar."
+        },
+        {
+          "user": "Rachel Smith",
+          "stars": 4,
+          "comment": "Board realize account put early arm mind."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Electronics-48",
+      "https://source.unsplash.com/800x600/?Rada-48"
+    ],
+    "variants": [
+      {
+        "id": "48a",
+        "color": "PaleTurquoise",
+        "price_diff": 1000,
+        "image": "https://source.unsplash.com/800x600/?Rada-48-0"
+      },
+      {
+        "id": "48b",
+        "color": "Moccasin",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Rada-48-1"
+      },
+      {
+        "id": "48c",
+        "color": "DeepPink",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Rada-48-2"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Kiondo Chai Adult",
+    "category": "Groceries",
+    "price": 25783,
+    "currency": "KES",
+    "brand": "Bidco",
+    "description": "Effect morning maintain recognize themselves hundred the practice. Hundred nothing coach office. High everybody figure.",
+    "rating": {
+      "average": 4.0,
+      "count": 19,
+      "reviews": [
+        {
+          "user": "Carol Cooper",
+          "stars": 1,
+          "comment": "Write form ready never before."
+        },
+        {
+          "user": "Paul Saunders",
+          "stars": 2,
+          "comment": "Our house picture political live work."
+        },
+        {
+          "user": "Mary Cruz",
+          "stars": 3,
+          "comment": "Simply service watch career conference no product."
+        },
+        {
+          "user": "Rachel Cox",
+          "stars": 1,
+          "comment": "Move feel history down together."
+        },
+        {
+          "user": "Ruth Stephens",
+          "stars": 4,
+          "comment": "Vote benefit protect government."
+        },
+        {
+          "user": "Virginia Taylor",
+          "stars": 2,
+          "comment": "Where onto thank increase a benefit she."
+        },
+        {
+          "user": "Andrew Finley",
+          "stars": 1,
+          "comment": "Personal war beautiful enjoy happen."
+        },
+        {
+          "user": "Mrs. Alyssa Parker PhD",
+          "stars": 2,
+          "comment": "Call appear prove woman thing story charge."
+        },
+        {
+          "user": "Melissa Wagner",
+          "stars": 5,
+          "comment": "Your its seem task fish foot."
+        },
+        {
+          "user": "Tammy Ortega",
+          "stars": 1,
+          "comment": "Low in her speak bar."
+        },
+        {
+          "user": "James Ware",
+          "stars": 3,
+          "comment": "Wait half network trial little take."
+        },
+        {
+          "user": "David Martinez",
+          "stars": 1,
+          "comment": "Improve condition tend wide experience station sing."
+        },
+        {
+          "user": "Joshua Rivera",
+          "stars": 2,
+          "comment": "Scene party space walk."
+        },
+        {
+          "user": "Shannon Kelly",
+          "stars": 4,
+          "comment": "Big term method role space teach."
+        },
+        {
+          "user": "Ashley Escobar",
+          "stars": 5,
+          "comment": "Bit both citizen could but ground discussion to."
+        },
+        {
+          "user": "Nancy Smith",
+          "stars": 1,
+          "comment": "Close forget special into."
+        },
+        {
+          "user": "Samuel Yang",
+          "stars": 2,
+          "comment": "Nor out serve hit."
+        },
+        {
+          "user": "Ronald Boyer",
+          "stars": 3,
+          "comment": "Month us hard notice animal career."
+        },
+        {
+          "user": "Patrick Johnson",
+          "stars": 2,
+          "comment": "Explain trial teacher difficult should wrong."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Groceries-49",
+      "https://source.unsplash.com/800x600/?Chai-49"
+    ],
+    "variants": [
+      {
+        "id": "49a",
+        "color": "Khaki",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Chai-49-0"
+      },
+      {
+        "id": "49b",
+        "color": "Cyan",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Chai-49-1"
+      },
+      {
+        "id": "49c",
+        "color": "Lavender",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Chai-49-2"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Bidco Bati Anyone",
+    "category": "Home & Kitchen",
+    "price": 10206,
+    "currency": "KES",
+    "brand": "Java House",
+    "description": "Common democratic whatever fine right amount like. Fine commercial or area card compare force smile. Painting writer sport green.",
+    "rating": {
+      "average": 4.1,
+      "count": 10,
+      "reviews": [
+        {
+          "user": "Brendan Ayers",
+          "stars": 5,
+          "comment": "Administration community own free Democrat."
+        },
+        {
+          "user": "Michael Jones",
+          "stars": 3,
+          "comment": "What hotel debate marriage black."
+        },
+        {
+          "user": "Julie Villanueva",
+          "stars": 2,
+          "comment": "Thank reflect western quality consider oil class."
+        },
+        {
+          "user": "Robert Williams",
+          "stars": 1,
+          "comment": "Whether have glass ask."
+        },
+        {
+          "user": "Alyssa Floyd",
+          "stars": 3,
+          "comment": "Rise the cup."
+        },
+        {
+          "user": "Julia Payne",
+          "stars": 5,
+          "comment": "Bring watch wind listen."
+        },
+        {
+          "user": "Bethany Jackson",
+          "stars": 2,
+          "comment": "Mrs reflect production mean us attack air much."
+        },
+        {
+          "user": "Robert Preston",
+          "stars": 2,
+          "comment": "Do commercial resource such share."
+        },
+        {
+          "user": "Mark Murray",
+          "stars": 4,
+          "comment": "Surface security drug cell weight thank."
+        },
+        {
+          "user": "Donald Carey",
+          "stars": 4,
+          "comment": "Cell fight company worry article stuff go."
+        }
+      ]
+    },
+    "images": [
+      "https://source.unsplash.com/800x600/?Home-&-Kitchen-50",
+      "https://source.unsplash.com/800x600/?Bati-50"
+    ],
+    "variants": [
+      {
+        "id": "50a",
+        "color": "Cornsilk",
+        "price_diff": 0,
+        "image": "https://source.unsplash.com/800x600/?Bati-50-0"
+      },
+      {
+        "id": "50b",
+        "color": "DarkTurquoise",
+        "price_diff": 500,
+        "image": "https://source.unsplash.com/800x600/?Bati-50-1"
+      }
+    ]
+  }
+]
