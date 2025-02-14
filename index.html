@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Store with Chatbot</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f9f9f9;
+        }
+
+        /* Header */
+        .header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        /* Product Showcase */
+        .products {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .product {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .product img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .product h3 {
+            margin: 10px 0;
+        }
+
+        .product button {
+            padding: 8px 16px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Chatbot Styles */
+        .chat-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .chat-window {
+            position: fixed;
+            bottom: 90px;
+            right: 20px;
+            width: 300px;
+            height: 400px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            display: none; /* Hidden by default */
+            flex-direction: column;
+        }
+
+        .chat-container {
+            flex: 1;
+            padding: 10px;
+            overflow-y: auto;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .message {
+            margin: 5px 0;
+            padding: 8px 12px;
+            border-radius: 15px;
+            max-width: 80%;
+            word-wrap: break-word;
+        }
+
+        .user-message {
+            background: #4CAF50;
+            color: white;
+            margin-left: auto; /* Align to right */
+        }
+
+        .bot-message {
+            background: #f1f1f1;
+            margin-right: auto; /* Align to left */
+        }
+
+        .input-area {
+            display: flex;
+            padding: 10px;
+            background: white;
+            border-top: 1px solid #ddd;
+        }
+
+        #userInput {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            margin-right: 10px;
+        }
+
+        #sendBtn {
+            padding: 8px 16px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h1>Welcome to Our Online Store!</h1>
+        <p>Find the best deals in Kenya. Chat with us for help!</p>
+    </div>
+
+    <!-- Product Showcase -->
+    <div class="products">
+        <div class="product">
+            <img src="https://source.unsplash.com/800x600/?phone" alt="Product 1">
+            <h3>Safaricom 4G Router</h3>
+            <p>KES 10,999</p>
+            <button>View Details</button>
+        </div>
+        <div class="product">
+            <img src="https://source.unsplash.com/800x600/?dress" alt="Product 2">
+            <h3>Kitenge Dress</h3>
+            <p>KES 2,500</p>
+            <button>View Details</button>
+        </div>
+        <!-- Add more products here -->
+    </div>
+
+    <!-- Chatbot Button -->
+    <button class="chat-btn" onclick="toggleChat()">🤖</button>
+
+    <!-- Chat Window -->
+    <div class="chat-window" id="chatWindow">
+        <!-- Chat Container (Messages Go Here) -->
+        <div class="chat-container" id="chatContainer"></div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Type your message...">
+            <button id="sendBtn" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        // Toggle Chat Window
+        function toggleChat() {
+            const chatWindow = document.getElementById("chatWindow");
+            if (chatWindow.style.display === "none") {
+                chatWindow.style.display = "flex";
+            } else {
+                chatWindow.style.display = "none";
+            }
+        }
+
+        // Send Message to Backend
+        async function sendMessage() {
+            const userInput = document.getElementById("userInput");
+            const message = userInput.value.trim();
+
+            if (message) {
+                // Add User Message
+                const userDiv = document.createElement("div");
+                userDiv.className = "message user-message";
+                userDiv.textContent = message;
+                document.getElementById("chatContainer").appendChild(userDiv);
+
+                // Clear Input
+                userInput.value = "";
+
+                // Scroll to Bottom
+                const chatContainer = document.getElementById("chatContainer");
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+
+                // Send Message to Backend
+                try {
+                    const response = await fetch('http://127.0.0.1:5000/chat', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ message: message }),
+                    });
+                    const data = await response.json();
+
+                    // Add Bot Reply
+                    const botDiv = document.createElement("div");
+                    botDiv.className = "message bot-message";
+                    botDiv.textContent = data.response;
+                    document.getElementById("chatContainer").appendChild(botDiv);
+
+                    // Scroll to Bottom Again
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                } catch (error) {
+                    console.error("Error:", error);
+                    const botDiv = document.createElement("div");
+                    botDiv.className = "message bot-message";
+                    botDiv.textContent = "⚠️ Oops! Something went wrong. Please try again.";
+                    document.getElementById("chatContainer").appendChild(botDiv);
+                }
+            }
+        }
+
+        // Send Message on Enter Key
+        document.getElementById("userInput").addEventListener("keypress", (e) => {
+            if (e.key === "Enter") {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>
