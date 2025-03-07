@@ -27,35 +27,59 @@
         /* Product Showcase */
         .products {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 20px;
             padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
         .product {
             background: white;
             border: 1px solid #ddd;
             border-radius: 10px;
-            padding: 10px;
+            padding: 15px;
             text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .product:hover {
+            transform: translateY(-5px);
         }
 
         .product img {
             width: 100%;
+            height: 200px;
+            object-fit: contain;
             border-radius: 10px;
+            margin-bottom: 10px;
         }
 
         .product h3 {
             margin: 10px 0;
+            color: #333;
+            font-size: 1.1rem;
         }
 
-        .product button {
-            padding: 8px 16px;
-            background: #4CAF50;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
+        .product p {
+            margin: 5px 0;
+            color: #666;
+        }
+
+        /* Loading Spinner */
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #4CAF50;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
 
         /* Chatbot Styles */
@@ -144,36 +168,19 @@
 <body>
     <!-- Header -->
     <div class="header">
-        <h1>Welcome to Our Online Store!</h1>
-        <p>Find the best deals in Kenya. Chat with us for help!</p>
+        <h1>Welcome to Our Store</h1>
+        <p>Explore our products below</p>
     </div>
 
-    <!-- Product Showcase -->
-    <div class="products">
-        <div class="product">
-            <img src="https://source.unsplash.com/800x600/?phone" alt="Product 1">
-            <h3>Safaricom 4G Router</h3>
-            <p>KES 10,999</p>
-            <button>View Details</button>
-        </div>
-        <div class="product">
-            <img src="https://source.unsplash.com/800x600/?dress" alt="Product 2">
-            <h3>Kitenge Dress</h3>
-            <p>KES 2,500</p>
-            <button>View Details</button>
-        </div>
-        <!-- Add more products here -->
+    <!-- Product Showcase (dynamically populated) -->
+    <div class="products" id="productContainer">
+        <div class="loader" id="loader"></div> <!-- Loading spinner -->
     </div>
 
-    <!-- Chatbot Button -->
+    <!-- Chatbot Button & Window -->
     <button class="chat-btn" onclick="toggleChat()">🤖</button>
-
-    <!-- Chat Window -->
     <div class="chat-window" id="chatWindow">
-        <!-- Chat Container (Messages Go Here) -->
         <div class="chat-container" id="chatContainer"></div>
-
-        <!-- Input Area -->
         <div class="input-area">
             <input type="text" id="userInput" placeholder="Type your message...">
             <button id="sendBtn" onclick="sendMessage()">Send</button>
@@ -181,7 +188,50 @@
     </div>
 
     <script>
-        // Toggle Chat Window
+        // Helper function to truncate long descriptions
+        function truncateDescription(description, maxLength = 100) {
+            return description.length > maxLength ? description.slice(0, maxLength) + "..." : description;
+        }
+
+        // Load products from the simplified dataset
+        const productContainer = document.getElementById('productContainer');
+        const loader = document.getElementById('loader');
+
+        fetch('amazon_products_simple.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load products');
+                }
+                return response.json();
+            })
+            .then(products => {
+                // Hide loader
+                loader.style.display = 'none';
+
+                // Display products (up to 6)
+                const productCount = Math.min(products.length, 6);
+                for (let i = 0; i < productCount; i++) {
+                    const product = products[i];
+                    const productDiv = document.createElement('div');
+                    productDiv.className = 'product';
+                    productDiv.innerHTML = `
+                        <img src="${product.image}" alt="${product.title}" onerror="this.src='https://via.placeholder.com/200'">
+                        <h3>${product.title}</h3>
+                        <p><strong>${product.currency}${product.price}</strong></p>
+                        <p>${truncateDescription(product.description, 100)}</p>
+                        <p>Rating: ${product.rating}/5</p>
+                        <p>${product.in_stock ? '✅ In Stock' : '❌ Out of Stock'}</p>
+                    `;
+                    productContainer.appendChild(productDiv);
+                }
+            })
+            .catch(error => {
+                console.error('Error loading products:', error);
+                loader.style.display = 'none';
+                productContainer.innerHTML = '<p>Products failed to load. Please try again later.</p>';
+            });
+
+        // Chatbot JavaScript
         function toggleChat() {
             const chatWindow = document.getElementById("chatWindow");
             if (chatWindow.style.display === "none") {
@@ -191,7 +241,12 @@
             }
         }
 
-        // Send Message to Backend
+        // Scroll to bottom of chat window
+        function scrollToBottom() {
+            const chatContainer = document.getElementById("chatContainer");
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
         async function sendMessage() {
             const userInput = document.getElementById("userInput");
             const message = userInput.value.trim();
@@ -207,8 +262,7 @@
                 userInput.value = "";
 
                 // Scroll to Bottom
-                const chatContainer = document.getElementById("chatContainer");
-                chatContainer.scrollTop = chatContainer.scrollHeight;
+                scrollToBottom();
 
                 // Send Message to Backend
                 try {
@@ -228,19 +282,20 @@
                     document.getElementById("chatContainer").appendChild(botDiv);
 
                     // Scroll to Bottom Again
-                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                    scrollToBottom();
                 } catch (error) {
                     console.error("Error:", error);
                     const botDiv = document.createElement("div");
                     botDiv.className = "message bot-message";
                     botDiv.textContent = "⚠️ Oops! Something went wrong. Please try again.";
                     document.getElementById("chatContainer").appendChild(botDiv);
+                    scrollToBottom();
                 }
             }
         }
 
         // Send Message on Enter Key
-        document.getElementById("userInput").addEventListener("keypress", (e) => {
+        document.getElementById("userInput").addEventListener("keydown", (e) => {
             if (e.key === "Enter") {
                 sendMessage();
             }
