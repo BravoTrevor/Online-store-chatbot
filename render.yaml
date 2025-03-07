@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: online-store-chatbot
+    env: python
+    region: oregon  # Choose a region closest to you
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    plan: free
